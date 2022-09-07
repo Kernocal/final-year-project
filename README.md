@@ -20,4 +20,4 @@ Running main<area>.py requires the Python packages:
 bs4, datetime, pymongo, tkinter, PIL, shutil, re, w3lib.url and standard packages os, random, time
 
 # Past data
-Previous data can be found at [ttt](23-05-2021 data.json)
+Some example data collected can be found at [23-05-2021.json](23-05-2021.json).
