@@ -1,4 +1,4 @@
-# Current Status
+# Current Status :no_entry:
 White House Market no longer exists, as such this tool no longer works.
 
 
