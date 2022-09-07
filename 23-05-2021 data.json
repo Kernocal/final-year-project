@@ -1,0 +1,5983 @@
+[{
+  "_id": {
+    "$oid": "60aa5fbe1e73bca69364cf53"
+  },
+  "name": "pages",
+  "values": {
+    "0": {
+      "name": "redirect",
+      "time": "14-59-28"
+    },
+    "1": {
+      "name": "captcha",
+      "time": "14-59-51"
+    },
+    "2": {
+      "name": "initcap",
+      "time": "15-00-26"
+    },
+    "3": {
+      "name": "login",
+      "time": "15-00-27"
+    },
+    "4": {
+      "name": "homeNews",
+      "time": "15-00-30"
+    },
+    "5": {
+      "name": "welcome",
+      "time": "15-00-31"
+    },
+    "6": {
+      "name": "welcome？sc=4",
+      "time": "15-00-32"
+    },
+    "7": {
+      "name": "welcome？sc=4&page=1",
+      "time": "15-00-40"
+    },
+    "8": {
+      "name": "welcome？sc=49",
+      "time": "15-01-21"
+    },
+    "9": {
+      "name": "welcome？sc=49&page=1",
+      "time": "15-01-29"
+    },
+    "10": {
+      "name": "welcome？sc=23",
+      "time": "15-01-47"
+    },
+    "11": {
+      "name": "welcome？sc=23&page=1",
+      "time": "15-01-56"
+    },
+    "12": {
+      "name": "welcome？sc=23&page=2",
+      "time": "15-02-04"
+    },
+    "13": {
+      "name": "welcome？sc=23&page=3",
+      "time": "15-02-14"
+    },
+    "14": {
+      "name": "welcome？sc=23&page=4",
+      "time": "15-02-23"
+    },
+    "15": {
+      "name": "welcome？sc=23&page=5",
+      "time": "15-02-32"
+    },
+    "16": {
+      "name": "welcome？sc=23&page=6",
+      "time": "15-02-41"
+    },
+    "17": {
+      "name": "userinfo？user=alibabafrance",
+      "time": "15-02-49"
+    },
+    "18": {
+      "name": "welcome？sc=23&page=7",
+      "time": "15-02-57"
+    },
+    "19": {
+      "name": "welcome？sc=23&page=8",
+      "time": "15-03-07"
+    },
+    "20": {
+      "name": "welcome？sc=23&page=9",
+      "time": "15-03-16"
+    },
+    "21": {
+      "name": "welcome？sc=23&page=10",
+      "time": "15-03-24"
+    },
+    "22": {
+      "name": "welcome？sc=23&page=11",
+      "time": "15-03-32"
+    },
+    "23": {
+      "name": "welcome？sc=23&page=12",
+      "time": "15-03-41"
+    },
+    "24": {
+      "name": "userinfo？user=1hero",
+      "time": "15-03-50"
+    },
+    "25": {
+      "name": "welcome？sc=23&page=13",
+      "time": "15-03-57"
+    },
+    "26": {
+      "name": "welcome？sc=23&page=14",
+      "time": "15-04-06"
+    },
+    "27": {
+      "name": "welcome？sc=23&page=15",
+      "time": "15-04-13"
+    },
+    "28": {
+      "name": "welcome？sc=23&page=16",
+      "time": "15-04-22"
+    },
+    "29": {
+      "name": "welcome？sc=23&page=17",
+      "time": "15-04-31"
+    },
+    "30": {
+      "name": "welcome？sc=23&page=18",
+      "time": "15-04-39"
+    },
+    "31": {
+      "name": "userinfo？user=qualitysupreme",
+      "time": "15-04-47"
+    },
+    "32": {
+      "name": "welcome？sc=23&page=19",
+      "time": "15-04-56"
+    },
+    "33": {
+      "name": "welcome？sc=23&page=20",
+      "time": "15-05-03"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60aa5fbe1e73bca69364cf55"
+  },
+  "name": "products",
+  "values": {
+    "0": {
+      "id": "102520",
+      "title": "Etizolam (Like Xanax) Solution, 50 doses, 50mL 2mg/mL",
+      "category": "Benzos - Other",
+      "price": "USD 50",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "goldenslash"
+    },
+    "1": {
+      "id": "136162",
+      "title": "Midazolam vial/ampoules 5 x 1 ml 25 euro",
+      "category": "Benzos - Other",
+      "price": "EUR 25",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "2": {
+      "id": "203911",
+      "title": "Midazolam injection 15mg/3ml 10 ampoules",
+      "category": "Benzos - Other",
+      "price": "USD 350",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "richhigh999"
+    },
+    "3": {
+      "id": "202330",
+      "title": "Flubromazolam Solution - 5mg/ml (10ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "4": {
+      "id": "165567",
+      "title": "Xanax X2 pill 3mg 100pill (Duplicate) (Duplicate)",
+      "category": "Benzos - Other",
+      "price": "GBP 70",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "upsworldwide"
+    },
+    "5": {
+      "id": "210986",
+      "title": "Etizolam blotter tabs. 1,2mg each. 300tabs Free Shipping",
+      "category": "Benzos - Other",
+      "price": "USD 55",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "psiloadventures"
+    },
+    "6": {
+      "id": "185104",
+      "title": "Bensedin galenika valium 30 tabs 10mg",
+      "category": "Benzos - Other",
+      "price": "GBP 16",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "7": {
+      "id": "195538",
+      "title": "BEST PHARM 30x 600mg Gabapentin (Neurotin) $150",
+      "category": "Benzos - Other",
+      "price": "USD 150",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "kundlekastle"
+    },
+    "8": {
+      "id": "219145",
+      "title": "Ultradal Tramadol prolonged release 100mg 10 tabs",
+      "category": "Benzos - Other",
+      "price": "GBP 12",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "9": {
+      "id": "192163",
+      "title": "PC-157 10mg Nasal Spray BENZODIAZEPINE TOLERANCE REDUCER",
+      "category": "Benzos - Other",
+      "price": "USD 30",
+      "shipsFrom": "Greece",
+      "shipsTo": "Worldwide",
+      "vendor": "8drugsafe"
+    },
+    "10": {
+      "id": "215238",
+      "title": "Signature pregabalin 300mg 15tabs",
+      "category": "Benzos - Other",
+      "price": "GBP 15",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "11": {
+      "id": "182967",
+      "title": "(10) 1mg Clonazolam Gummies",
+      "category": "Benzos - Other",
+      "price": "USD 15",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "rudeboy5002"
+    },
+    "12": {
+      "id": "199554",
+      "title": "Alprazolam Solution - 2mg/ml (100ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 300",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "13": {
+      "id": "193410",
+      "title": "Galenika Xanax 1mg x 30 pills 20GBP",
+      "category": "Benzos - Other",
+      "price": "GBP 20",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "rxwholesale"
+    },
+    "14": {
+      "id": "146840",
+      "title": "Deschloroetizolam 100g",
+      "category": "Benzos - Other",
+      "price": "USD 1799",
+      "shipsFrom": "China",
+      "shipsTo": "Worldwide",
+      "vendor": "mastermeds"
+    },
+    "15": {
+      "id": "210985",
+      "title": "Etizolam blotter tabs. 1,2mg each. 600tabs Free Shipping 600 benzo",
+      "category": "Benzos - Other",
+      "price": "USD 94",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "psiloadventures"
+    },
+    "16": {
+      "id": "68260",
+      "title": "Etizolam blotter tabs. 1,2mg each. 300tabs Free Shipping",
+      "category": "Benzos - Other",
+      "price": "USD 55",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "psiloadventures"
+    },
+    "17": {
+      "id": "175554",
+      "title": "Tip Jar",
+      "category": "Benzos - Other",
+      "price": "USD 5",
+      "shipsFrom": "Digital / Service",
+      "shipsTo": "Digital / Service",
+      "vendor": "localpharm"
+    },
+    "18": {
+      "id": "202331",
+      "title": "Flualprazolam Solution - 10mg/ml (100ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 800",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "19": {
+      "id": "194319",
+      "title": "ksalol xanax 1 mg 90 tablets",
+      "category": "Benzos - Other",
+      "price": "GBP 48",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "20": {
+      "id": "194320",
+      "title": "Bensedin galenika valium 90 tabs 10mg",
+      "category": "Benzos - Other",
+      "price": "GBP 48",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "21": {
+      "id": "203912",
+      "title": "Liquid triazolam songar 0.375mg/ml 19 ml",
+      "category": "Benzos - Other",
+      "price": "USD 200",
+      "shipsFrom": "Italy",
+      "shipsTo": "European Union",
+      "vendor": "richhigh999"
+    },
+    "22": {
+      "id": "202333",
+      "title": "Etizolam Solution - 10mg/ml (100ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 500",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "23": {
+      "id": "206113",
+      "title": "(100) 2mg Alprazolam Gummies FREE PRIORITY",
+      "category": "Benzos - Other",
+      "price": "USD 100",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "rudeboy5002"
+    },
+    "24": {
+      "id": "146836",
+      "title": "Deschloroetizolam 25g",
+      "category": "Benzos - Other",
+      "price": "USD 680",
+      "shipsFrom": "China",
+      "shipsTo": "Worldwide",
+      "vendor": "mastermeds"
+    },
+    "25": {
+      "id": "164312",
+      "title": "Etizolam Solution (10mg/ml) Oral and Vapable (US/AUS)",
+      "category": "Benzos - Other",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "thehypnotoad"
+    },
+    "26": {
+      "id": "202332",
+      "title": "Flualprazolam Solution - 10mg/ml (10ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "27": {
+      "id": "164441",
+      "title": "Xanax X2 pill 3mg 100pill (Duplicate) (Duplicate)",
+      "category": "Benzos - Other",
+      "price": "GBP 75",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "upsworldwide"
+    },
+    "28": {
+      "id": "217764",
+      "title": "DutchDuster Probier Pack",
+      "category": "Benzos - Other",
+      "price": "EUR 260",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "dutchduster"
+    },
+    "29": {
+      "id": "185103",
+      "title": "ksalol xanax 1 mg 30 tablets",
+      "category": "Benzos - Other",
+      "price": "GBP 16",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "30": {
+      "id": "206112",
+      "title": "(50) 2mg Alprazolam Gummies",
+      "category": "Benzos - Other",
+      "price": "USD 70",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "rudeboy5002"
+    },
+    "31": {
+      "id": "146838",
+      "title": "Deschloroetizolam 50g",
+      "category": "Benzos - Other",
+      "price": "USD 1100",
+      "shipsFrom": "China",
+      "shipsTo": "Worldwide",
+      "vendor": "mastermeds"
+    },
+    "32": {
+      "id": "109409",
+      "title": "Test Listing do not buy",
+      "category": "Benzos - Other",
+      "price": "USD 1",
+      "shipsFrom": "Armenia",
+      "shipsTo": "Argentina",
+      "vendor": "testuser1"
+    },
+    "33": {
+      "id": "194312",
+      "title": "Rivotril 2mg 60 tabs (clonazepam)",
+      "category": "Benzos - Other",
+      "price": "GBP 32",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "34": {
+      "id": "131908",
+      "title": "Etizolam Solution (10mg/ml) Oral and Vapable (EU)",
+      "category": "Benzos - Other",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "thehypnotoad"
+    },
+    "35": {
+      "id": "140672",
+      "title": "Etizolam blotter tabs. 1,2mg each. 600tabs Free Shipping 600 benzo",
+      "category": "Benzos - Other",
+      "price": "USD 94",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "psiloadventures"
+    },
+    "36": {
+      "id": "146834",
+      "title": "Deschloroetizolam 10g",
+      "category": "Benzos - Other",
+      "price": "USD 380",
+      "shipsFrom": "China",
+      "shipsTo": "Worldwide",
+      "vendor": "mastermeds"
+    },
+    "37": {
+      "id": "160577",
+      "title": "Xanax X2 pill 3mg 100pill (Duplicate)",
+      "category": "Benzos - Other",
+      "price": "GBP 75",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "upsworldwide"
+    },
+    "38": {
+      "id": "193413",
+      "title": "Galenika Xanax 1mg x 90 Pills 55GBP",
+      "category": "Benzos - Other",
+      "price": "GBP 55",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "rxwholesale"
+    },
+    "39": {
+      "id": "202334",
+      "title": "Etizolam Solution - 10mg/ml (10ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "40": {
+      "id": "194317",
+      "title": "ksalol xanax 1 mg 60 tablets",
+      "category": "Benzos - Other",
+      "price": "GBP 32",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "41": {
+      "id": "215924",
+      "title": "New Introduction Listing Xanax Green Goblin Bars 10 x 3mg",
+      "category": "Benzos - Other",
+      "price": "USD 35",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "pablitopicasso"
+    },
+    "42": {
+      "id": "94643",
+      "title": "SUBSRGOOD TIP JAR",
+      "category": "Benzos - Other",
+      "price": "USD 6",
+      "shipsFrom": "Digital / Service",
+      "shipsTo": "Digital / Service",
+      "vendor": "subsrgood"
+    },
+    "43": {
+      "id": "205380",
+      "title": "ZOP ZOPICLONE 7.5mg 10tabs",
+      "category": "Benzos - Other",
+      "price": "GBP 7",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "medsupermarket"
+    },
+    "44": {
+      "id": "202329",
+      "title": "Flubromazolam Solution - 5mg/ml (100ml)",
+      "category": "Benzos - Other",
+      "price": "AUD 800",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "45": {
+      "id": "131902",
+      "title": "Etizolam Solution (10mg/ml) Oral and Vapable (UK)",
+      "category": "Benzos - Other",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehypnotoad"
+    },
+    "46": {
+      "id": "201718",
+      "title": "(50) 1mg Clonazolam Gummies",
+      "category": "Benzos - Other",
+      "price": "USD 35",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "rudeboy5002"
+    },
+    "47": {
+      "id": "91053",
+      "title": "yongz",
+      "category": "Benzos - Other",
+      "price": "EUR 100",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "heinekenexpress"
+    },
+    "48": {
+      "id": "107145",
+      "title": "1 Gram/1000mg+ of Tongkat Ali Extract (Testosterone Booster, Fat-Loss) sample",
+      "category": "Weight Loss",
+      "price": "GBP 5",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "honesttrader"
+    },
+    "49": {
+      "id": "144124",
+      "title": "Phentermine Adipex K75 37.5 x 100 - Prescription Weightloss",
+      "category": "Weight Loss",
+      "price": "USD 199",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "angelina"
+    },
+    "50": {
+      "id": "193171",
+      "title": "DNP DINITROPHENOL RAW POWDER 5KG",
+      "category": "Weight Loss",
+      "price": "USD 2500",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shreddedlabs"
+    },
+    "51": {
+      "id": "145588",
+      "title": "Ephedrine Hydrochloride 20mg x 100 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 19",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "monoko"
+    },
+    "52": {
+      "id": "177735",
+      "title": "Clenbuterol 20mcg 100tabs - SOPHARMA",
+      "category": "Weight Loss",
+      "price": "GBP 22",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dnabiotech"
+    },
+    "53": {
+      "id": "119552",
+      "title": "Ephedrine Hydrochloride 100 tablets x 20 mg",
+      "category": "Weight Loss",
+      "price": "EUR 45",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "smartstore"
+    },
+    "54": {
+      "id": "107143",
+      "title": "100x 150mg Capsules of Tongkat Ali Extract (Testosterone Booster, Fat-Loss)",
+      "category": "Weight Loss",
+      "price": "GBP 38",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "honesttrader"
+    },
+    "55": {
+      "id": "139000",
+      "title": "+EUROPE RETAIL+ ADIPEX 75 Phentermine (weight loss) 120 tabs",
+      "category": "Weight Loss",
+      "price": "USD 216",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "thebodyshop"
+    },
+    "56": {
+      "id": "119551",
+      "title": "Ephedrine Hydrochloride 50 tablets x 20 mg",
+      "category": "Weight Loss",
+      "price": "EUR 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "smartstore"
+    },
+    "57": {
+      "id": "159340",
+      "title": "Syntholan Sibutramine (Reductil) 10mg x 100 Tabs",
+      "category": "Weight Loss",
+      "price": "GBP 47",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "pharmauk"
+    },
+    "58": {
+      "id": "214915",
+      "title": "Zuche Clenbuterol (Fat Burner) 40mcg 100 Tablets - Cheapest on WHM",
+      "category": "Weight Loss",
+      "price": "GBP 43",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "buysteroids"
+    },
+    "59": {
+      "id": "99735",
+      "title": "Cerberus Pharma Dianaprop Dbol Test Prop Blend",
+      "category": "Weight Loss",
+      "price": "GBP 25",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "cerberusuk"
+    },
+    "60": {
+      "id": "200682",
+      "title": "Alphazeneca Clenbuterol (Fat Burner) 20mcg 50 Tablets - Cheapest on WHM",
+      "category": "Weight Loss",
+      "price": "GBP 40",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "buysteroids"
+    },
+    "61": {
+      "id": "107140",
+      "title": "5x 150mg Capsules of Tongkat Ali Extract (Testosterone Booster, Fat-Loss) sample",
+      "category": "Weight Loss",
+      "price": "GBP 5",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "honesttrader"
+    },
+    "62": {
+      "id": "178862",
+      "title": "DNP (2,4-Dinitrophenol) - 200mg 25 caps",
+      "category": "Weight Loss",
+      "price": "GBP 26",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dnabiotech"
+    },
+    "63": {
+      "id": "145600",
+      "title": "Clenbuterol 100 Tabs 40mcg E/P Double Strength",
+      "category": "Weight Loss",
+      "price": "GBP 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "monoko"
+    },
+    "64": {
+      "id": "203956",
+      "title": "Malay Tiger Clenox Clenbuterol (Fat Burner) 40mcg 100 Tablets - Cheapest on WHM",
+      "category": "Weight Loss",
+      "price": "GBP 43",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "buysteroids"
+    },
+    "65": {
+      "id": "134636",
+      "title": "DNP DINITROPHENOL RAW POWDER 1KG",
+      "category": "Weight Loss",
+      "price": "USD 1000",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shreddedlabs"
+    },
+    "66": {
+      "id": "138998",
+      "title": "+EUROPE RETAIL+ ADIPEX 75 Phentermine (weight loss) 60 tabs",
+      "category": "Weight Loss",
+      "price": "USD 114",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "thebodyshop"
+    },
+    "67": {
+      "id": "51161",
+      "title": "Ephedrine Hydrochloride 20mg x 1000 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 99",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "monoko"
+    },
+    "68": {
+      "id": "183598",
+      "title": "Mexican Prescribed Phentermine 30ct Box 30MG",
+      "category": "Weight Loss",
+      "price": "USD 145",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "dtxusashop"
+    },
+    "69": {
+      "id": "99764",
+      "title": "Sopharma Clenbuterol 20mcg x 50",
+      "category": "Weight Loss",
+      "price": "GBP 20",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "cerberusuk"
+    },
+    "70": {
+      "id": "119963",
+      "title": "Syntholan Sibutramine (Reductil) 10mg x 100 Tabs",
+      "category": "Weight Loss",
+      "price": "GBP 45",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "cashking"
+    },
+    "71": {
+      "id": "145596",
+      "title": "Ephedrine Hydrochloride 20mg x 250 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 38",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "monoko"
+    },
+    "72": {
+      "id": "51159",
+      "title": "Ephedrine Hydrochloride 20mg x 500 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 59",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "monoko"
+    },
+    "73": {
+      "id": "83482",
+      "title": "Cerberus Pharma T6 ECA Stack x 50 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 20",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "cerberusuk"
+    },
+    "74": {
+      "id": "156739",
+      "title": "Clenbuterol 40mcg 50tabs - PHARMAQO SALE !!",
+      "category": "Weight Loss",
+      "price": "GBP 25",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dnabiotech"
+    },
+    "75": {
+      "id": "119554",
+      "title": "Clenbuterol 40mcg E/P x 100 tablets (double strength)",
+      "category": "Weight Loss",
+      "price": "EUR 45",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "smartstore"
+    },
+    "76": {
+      "id": "107147",
+      "title": "7g of Tongkat Ali Extract (Testosterone Booster, Fat-Loss)",
+      "category": "Weight Loss",
+      "price": "GBP 18",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "honesttrader"
+    },
+    "77": {
+      "id": "145602",
+      "title": "Clenbuterol 400 Tabs 40mcg E/P Double Strength",
+      "category": "Weight Loss",
+      "price": "GBP 99",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "monoko"
+    },
+    "78": {
+      "id": "138994",
+      "title": "+EUROPE RETAIL+ ADIPEX 75 Phentermine (weight loss) 30 tabs",
+      "category": "Weight Loss",
+      "price": "USD 63",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "thebodyshop"
+    },
+    "79": {
+      "id": "107142",
+      "title": "25x 150mg Capsules of Tongkat Ali Extract (Testosterone Booster, Fat-Loss)",
+      "category": "Weight Loss",
+      "price": "GBP 12",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "honesttrader"
+    },
+    "80": {
+      "id": "154065",
+      "title": "SIS Clenbuterol 40Mg/ 50 Tabs",
+      "category": "Weight Loss",
+      "price": "GBP 20",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "partyuk"
+    },
+    "81": {
+      "id": "145586",
+      "title": "Ephedrine Hydrochloride 20mg x 50 Tablets",
+      "category": "Weight Loss",
+      "price": "GBP 9",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "monoko"
+    },
+    "82": {
+      "id": "107851",
+      "title": "ORLISTAT (Xenical) Orlijohn 120mg 50 tabs",
+      "category": "Weight Loss",
+      "price": "USD 34",
+      "shipsFrom": "India",
+      "shipsTo": "Worldwide",
+      "vendor": "thebodyshop"
+    },
+    "83": {
+      "id": "119969",
+      "title": "Balkan Clenbuterol 40mcg x 60 Tabs",
+      "category": "Weight Loss",
+      "price": "GBP 24",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "European Union",
+      "vendor": "cashking"
+    },
+    "84": {
+      "id": "83490",
+      "title": "Cerberus Pharma Nandrolone Decoanate 250mg/ml x 10ml",
+      "category": "Weight Loss",
+      "price": "GBP 35",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "cerberusuk"
+    },
+    "85": {
+      "id": "83478",
+      "title": "Cerberus Pharma Clenbuterol 40mcg x 50",
+      "category": "Weight Loss",
+      "price": "GBP 25",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "cerberusuk"
+    },
+    "86": {
+      "id": "177733",
+      "title": "Clenbuterol 20mcg 50tabs - SOPHARMA",
+      "category": "Weight Loss",
+      "price": "GBP 15",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dnabiotech"
+    },
+    "87": {
+      "id": "109622",
+      "title": "DNP DINITROPHENOL RAW POWDER 10GRAMS",
+      "category": "Weight Loss",
+      "price": "USD 20",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shreddedlabs"
+    },
+    "88": {
+      "id": "128368",
+      "title": "14G Highly Potent THE DREAM CREAM #3 Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 640",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "89": {
+      "id": "207000",
+      "title": "10G COMMERCIAL HEROINE 50% PURITY - REALLY GOOD / NEW PRODUCT ON THE CASA EXCLU !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "90": {
+      "id": "217342",
+      "title": "(1G) BLACK TAR HEROIN (LAB QUALITY)BEST AROUND HANDS DOWN!!",
+      "category": "Opioids - Heroin",
+      "price": "USD 80",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "91": {
+      "id": "217193",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (1 GRAM)",
+      "category": "Opioids - Heroin",
+      "price": "USD 80",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "92": {
+      "id": "111712",
+      "title": "(PROMOTION) 27,4 // 10x Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 274",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "93": {
+      "id": "143944",
+      "title": "LAB TESTED 88% PURE TAN #4 HEROIN! Rocks NOT Powder! BEST H YET! QTY:6G",
+      "category": "Opioids - Heroin",
+      "price": "USD 810",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "alwaysthebest"
+    },
+    "94": {
+      "id": "112455",
+      "title": "HEROIN 1G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 420",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "95": {
+      "id": "95791",
+      "title": "Heroin White Powder Premium Turkish Import (1 kilogram) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 260000",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "96": {
+      "id": "112614",
+      "title": "HEROIN 0.5G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 216",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "97": {
+      "id": "218866",
+      "title": "500 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 11490",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "98": {
+      "id": "177301",
+      "title": "28G Highly Potent TURKISH DELIGHT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 800",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "99": {
+      "id": "166910",
+      "title": "1 Gr Pure Afghan Heroin #H3 88%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "100": {
+      "id": "184707",
+      "title": "**(4G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 80",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "101": {
+      "id": "63590",
+      "title": "***SALE*** 2gr Heroin #3 +/- 65%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 32",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "102": {
+      "id": "206304",
+      "title": "3.0G HEROIN FRESH FROM PAKISTAN (RM SPECIAL DELIVERY)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 110",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "vendorcaut2tuff"
+    },
+    "103": {
+      "id": "112610",
+      "title": "HEROIN 2G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1340",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "104": {
+      "id": "121054",
+      "title": "0.5g HEROIN #4 - Afghan No Fentanyl + Long Strong Legs *PAIN RELIEF*",
+      "category": "Opioids - Heroin",
+      "price": "CAD 95",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "alwaysoverweight"
+    },
+    "105": {
+      "id": "141186",
+      "title": "**(7.5G)** Pure Afghan Heroin #3 (UNCUT) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 225",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "106": {
+      "id": "184702",
+      "title": "**(1.5G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 30",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "107": {
+      "id": "112622",
+      "title": "HEROIN 3.5G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1385",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "108": {
+      "id": "63615",
+      "title": "1gr GOOD Quality Heroin 60%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 20",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "109": {
+      "id": "141146",
+      "title": "**(0.5G)** Pure Afghan Heroin #3 (UNCUT) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 15",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "110": {
+      "id": "167880",
+      "title": "1gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 52",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "111": {
+      "id": "128624",
+      "title": "20Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 320",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "112": {
+      "id": "63606",
+      "title": "2gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 48",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "113": {
+      "id": "170332",
+      "title": "50GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "114": {
+      "id": "122202",
+      "title": ".25 sample REAL Afghan #3 Grey Heroin - Free Ship",
+      "category": "Opioids - Heroin",
+      "price": "USD 40",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "pharmahouse"
+    },
+    "115": {
+      "id": "72235",
+      "title": "100 grams Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2349",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "116": {
+      "id": "208569",
+      "title": "Free Sample Synthetic Heroin #4. Bag # 003",
+      "category": "Opioids - Heroin",
+      "price": "USD 1",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "117": {
+      "id": "123824",
+      "title": "25g Pure Afghan Heroin H3 - France to Worldwide",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1460",
+      "shipsFrom": "France",
+      "shipsTo": "Worldwide",
+      "vendor": "drugsource"
+    },
+    "118": {
+      "id": "72238",
+      "title": "Quad (7 grams) Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 199",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "119": {
+      "id": "95786",
+      "title": "Heroin White Powder Premium Turkish Import (112 grams) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 35500",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "120": {
+      "id": "191411",
+      "title": "7 GRAMS GREY Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 690",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "121": {
+      "id": "171121",
+      "title": "Heroin pure Persian rocks -10gr-",
+      "category": "Opioids - Heroin",
+      "price": "EUR 395",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "frankmatthews"
+    },
+    "122": {
+      "id": "211708",
+      "title": "Heroin Blonde Afghan/ 50gram",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1350",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "cocacolacompany"
+    },
+    "123": {
+      "id": "128630",
+      "title": "50Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 800",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "124": {
+      "id": "166916",
+      "title": "20 Gr Pure Afghan Heroin #H3 88%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 440",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "125": {
+      "id": "218122",
+      "title": "1.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 112",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "126": {
+      "id": "141178",
+      "title": "**(3.5G)** Pure Afghan Heroin #3 (UNCUT) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 105",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "127": {
+      "id": "166924",
+      "title": "20 Gr High Afghan Heroin #H3 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 205",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "128": {
+      "id": "211118",
+      "title": "14g HEROIN #4 - Afghan No Fentanyl + Long Strong Legs *PAIN RELIEF*",
+      "category": "Opioids - Heroin",
+      "price": "CAD 1475",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "alwaysoverweight"
+    },
+    "129": {
+      "id": "213350",
+      "title": "0.25g PK PAKISTAN HEROIN- VERY POTENT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 18",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "happyshopper"
+    },
+    "130": {
+      "id": "199020",
+      "title": "Heroin Normal Quality -Germany To Europe Tracked 100% arrival Guranteed !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 6",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "germandutchteam"
+    },
+    "131": {
+      "id": "150234",
+      "title": "150GR High Quality AFGHAN Heroine #3 UNCUT 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2880",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "132": {
+      "id": "180467",
+      "title": "0.2 g No 3 Iraqi Creme De La Creme Uncut Heroin.",
+      "category": "Opioids - Heroin",
+      "price": "GBP 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "a1crack"
+    },
+    "133": {
+      "id": "111710",
+      "title": "(PROMOTION) 27,4 // 5x Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 147",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "134": {
+      "id": "166902",
+      "title": "5 Gram Pure Afghan Heroin #H4 100%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 147",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "135": {
+      "id": "217315",
+      "title": "BLACK TAR HEROIN (1 GRAM)",
+      "category": "Opioids - Heroin",
+      "price": "USD 135",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "136": {
+      "id": "217202",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (3.5 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 275",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "137": {
+      "id": "217312",
+      "title": "BLACK TAR HEROIN (.2 SAMPLE)",
+      "category": "Opioids - Heroin",
+      "price": "USD 35",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "138": {
+      "id": "173116",
+      "title": "1 gram spazz out heroin (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "USD 150",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spazz"
+    },
+    "139": {
+      "id": "115075",
+      "title": "Tip Jar",
+      "category": "Opioids - Heroin",
+      "price": "USD 20",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "140": {
+      "id": "206302",
+      "title": "4.0G HEROIN FRESH FROM PAKISTAN (RM SPECIAL DELIVERY)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 155",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "vendorcaut2tuff"
+    },
+    "141": {
+      "id": "97965",
+      "title": "5.0G HEROIN FRESH FROM PAKISTAN (RM SPECIAL DELIVERY)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 190",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "vendorcaut2tuff"
+    },
+    "142": {
+      "id": "121058",
+      "title": "3.5g HEROIN #4 - Afghan No Fentanyl + Long Strong Legs *PAIN RELIEF*",
+      "category": "Opioids - Heroin",
+      "price": "CAD 437",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "alwaysoverweight"
+    },
+    "143": {
+      "id": "218564",
+      "title": "9.75GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 731",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "144": {
+      "id": "199550",
+      "title": "Etazene Nasal Spray - 750ug/Spray (70+ Dispenses)",
+      "category": "Opioids - Heroin",
+      "price": "AUD 200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "145": {
+      "id": "190312",
+      "title": "RARE PRODUCT!! Pakistani Heroin NO 4! 100EU/gr !! Best Choice!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 100",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "146": {
+      "id": "180477",
+      "title": "0.2g CRACK COCAINE 0.2g AFGHAN HEROIN BOBBY WHITNEY",
+      "category": "Opioids - Heroin",
+      "price": "GBP 35",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "a1crack"
+    },
+    "147": {
+      "id": "218541",
+      "title": "7.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 543",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "148": {
+      "id": "60167",
+      "title": "5 grams Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 139",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "149": {
+      "id": "211238",
+      "title": "Pakistani Heroin ! 0.25gr FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "150": {
+      "id": "180810",
+      "title": "3 gram HEROIN #4",
+      "category": "Opioids - Heroin",
+      "price": "USD 305",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "darkgold19"
+    },
+    "151": {
+      "id": "183477",
+      "title": "12.5g - $1600 HEROIN - OH HEROIN HOW I LOVE THEE SWEET MAMMA HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 1600",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "h0tgirlzclub"
+    },
+    "152": {
+      "id": "217204",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (14 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 1080",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "153": {
+      "id": "164935",
+      "title": "Heroin HCL 3g Offwhite/Gray",
+      "category": "Opioids - Heroin",
+      "price": "USD 230",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "monsanto"
+    },
+    "154": {
+      "id": "191408",
+      "title": "1.7 GRAMS GREY Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 190",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "155": {
+      "id": "71130",
+      "title": "*REGULAR* 1.0 gram White Heroin AUSTRALIA",
+      "category": "Opioids - Heroin",
+      "price": "USD 385",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozconnection"
+    },
+    "156": {
+      "id": "214520",
+      "title": "200gr Pure Heroin H3 Carbon -Germany To Europe Tracked 100% arrival Guranteed !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 4000",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "germandutchteam"
+    },
+    "157": {
+      "id": "112624",
+      "title": "HEROIN 7G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 2730",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "158": {
+      "id": "202501",
+      "title": "7g Afghan Heroin AAA+++ UK EU WORLDWIDE 6.45PM LAST ORDERS FOR NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 345",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dmsoldiersndd"
+    },
+    "159": {
+      "id": "207108",
+      "title": "6.0g Heroin #4 Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 480",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "160": {
+      "id": "217313",
+      "title": "BLACK TAR HEROIN (.5)",
+      "category": "Opioids - Heroin",
+      "price": "USD 50",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "161": {
+      "id": "205862",
+      "title": "6.25 gram China White - Directly from the source.",
+      "category": "Opioids - Heroin",
+      "price": "USD 775",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "icexchange"
+    },
+    "162": {
+      "id": "126072",
+      "title": "***SALE***25gr Pure AAA+ Heroin #3 +90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 600",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "163": {
+      "id": "150897",
+      "title": "HEROIN 0.25G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 111",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "164": {
+      "id": "203934",
+      "title": "Etazene - 500mg (POTENCY WARNING)",
+      "category": "Opioids - Heroin",
+      "price": "AUD 400",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "165": {
+      "id": "184711",
+      "title": "**(10G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 200",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "166": {
+      "id": "81630",
+      "title": "5g IRANIAN EXTREME HEROIN +++ 1st CLASS UNCUT",
+      "category": "Opioids - Heroin",
+      "price": "EUR 275",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "pushar"
+    },
+    "167": {
+      "id": "123812",
+      "title": "5g Pure Afghan Heroin H3 - France to Worldwide",
+      "category": "Opioids - Heroin",
+      "price": "EUR 410",
+      "shipsFrom": "France",
+      "shipsTo": "Worldwide",
+      "vendor": "drugsource"
+    },
+    "168": {
+      "id": "218116",
+      "title": "3.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 262",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "169": {
+      "id": "128238",
+      "title": "0.25G Highly Potent THE DREAM CREAM #3 Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "170": {
+      "id": "72265",
+      "title": "Ounce (28 grams) Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 435",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "171": {
+      "id": "218127",
+      "title": "9.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 712",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "172": {
+      "id": "126758",
+      "title": "1Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "173": {
+      "id": "201554",
+      "title": "11G Heroine extra ++++ sent -12H",
+      "category": "Opioids - Heroin",
+      "price": "EUR 270",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "colombiandrugz1"
+    },
+    "174": {
+      "id": "214897",
+      "title": "0.5g *SALE* Pure, Uncut Mexican Heroin - Directly from the Source",
+      "category": "Opioids - Heroin",
+      "price": "USD 70",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "casablanc"
+    },
+    "175": {
+      "id": "103236",
+      "title": "0.5g Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 230",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    },
+    "176": {
+      "id": "187390",
+      "title": "French Methadone 40mg x 7 caps",
+      "category": "Opioids - Heroin",
+      "price": "EUR 80",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "doctordgz2"
+    },
+    "177": {
+      "id": "173984",
+      "title": "50GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 700",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "178": {
+      "id": "190105",
+      "title": "4gr HEROINE PURE UNTOUCHED ROCK ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 100",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "179": {
+      "id": "108528",
+      "title": "(7) Grams PURE Off Tan/White/Grey #4 HEROIN NO FENT.",
+      "category": "Opioids - Heroin",
+      "price": "USD 1300",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "packflipper"
+    },
+    "180": {
+      "id": "202794",
+      "title": "+ 1G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "181": {
+      "id": "201556",
+      "title": "22G Heroine extra ++++ sent -12H",
+      "category": "Opioids - Heroin",
+      "price": "EUR 510",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "colombiandrugz1"
+    },
+    "182": {
+      "id": "212251",
+      "title": "25G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 325",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "183": {
+      "id": "72224",
+      "title": "2 grams Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 59",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "184": {
+      "id": "112888",
+      "title": "2g Heroin #4 - (Free ExpressPost 2-4 Days)",
+      "category": "Opioids - Heroin",
+      "price": "CAD 300",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "jacobgrimm"
+    },
+    "185": {
+      "id": "74194",
+      "title": "1G COMMERCIAL HEROINE 30% PURITY - REALLY GOOD / ALL FEED POSITIF",
+      "category": "Opioids - Heroin",
+      "price": "EUR 40",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "186": {
+      "id": "126628",
+      "title": "2G - HEROIN - LION STAMP (PURE)-(GOLDEN-TRIANGE IMPORT)-(PSS)- FREE STEALTH EXPRESS SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1355",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "puresunshine"
+    },
+    "187": {
+      "id": "141158",
+      "title": "**(1.5G)** Pure Afghan Heroin #3 (UNCUT) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "188": {
+      "id": "183470",
+      "title": "0.5g - $110 HEROIN - OH HEROIN HOW I LOVE THEE SWEET MAMMA HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 110",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "h0tgirlzclub"
+    },
+    "189": {
+      "id": "200768",
+      "title": "200GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2400",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "190": {
+      "id": "190104",
+      "title": "3gr HEROINE PURE UNTOUCHED ROCK ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 76",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "191": {
+      "id": "103334",
+      "title": "2G COMMERCIAL HEROINE 30% PURITY - REALLY GOOD / ALL FEED POSITIF",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "192": {
+      "id": "218515",
+      "title": "3.75GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 281",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "193": {
+      "id": "205867",
+      "title": "25 gram China White - Directly from the source.",
+      "category": "Opioids - Heroin",
+      "price": "USD 2500",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "icexchange"
+    },
+    "194": {
+      "id": "74195",
+      "title": "4G COMMERCIAL HEROINE 30% PURITY - REALLY GOOD / ALL FEED POSITIF",
+      "category": "Opioids - Heroin",
+      "price": "EUR 120",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "195": {
+      "id": "207084",
+      "title": "2.0g Heroin #4 Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 200",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "196": {
+      "id": "80283",
+      "title": "1G Heroin Afghanistan H3# Top Quality",
+      "category": "Opioids - Heroin",
+      "price": "EUR 29",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "hornbach"
+    },
+    "197": {
+      "id": "67986",
+      "title": "1 Kg. Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 19499",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "198": {
+      "id": "189783",
+      "title": "3.5G ARCTIC WOLF HERO!!",
+      "category": "Opioids - Heroin",
+      "price": "GBP 130",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "tescoexpress"
+    },
+    "199": {
+      "id": "167889",
+      "title": "SPECIAL OFFER 1gr 100% Pure Heroin AAA+ and 1gr Pure Colombian Fischscale Cocaine AAA+",
+      "category": "Opioids - Heroin",
+      "price": "EUR 115",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "200": {
+      "id": "199822",
+      "title": "1g Heroin No3 - 50% - Perfect balance for most users.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 32",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "201": {
+      "id": "113025",
+      "title": "Tan Afghan Uncut # 4 heroin (.5)",
+      "category": "Opioids - Heroin",
+      "price": "USD 75",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "202": {
+      "id": "126630",
+      "title": "3.5G - HEROIN - LION STAMP (PURE)-(GOLDEN-TRIANGE IMPORT)-(PSS)- FREE STEALTH EXPRESS SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "AUD 2325",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "puresunshine"
+    },
+    "203": {
+      "id": "126778",
+      "title": "2Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 32",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "204": {
+      "id": "66962",
+      "title": "1g Pure AFGHAN HEROIN....FREE UK DELIVERY",
+      "category": "Opioids - Heroin",
+      "price": "USD 95",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "ezinpharma"
+    },
+    "205": {
+      "id": "218854",
+      "title": "7 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 245",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "206": {
+      "id": "207001",
+      "title": "50G COMMERCIAL HEROINE 50% PURITY - REALLY GOOD / NEW PRODUCT ON THE CASA EXCLU !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1750",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "207": {
+      "id": "128626",
+      "title": "25Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 400",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "208": {
+      "id": "189042",
+      "title": "5G Good Turkish Heroin 70%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 85",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "candyshop01"
+    },
+    "209": {
+      "id": "184700",
+      "title": "**(0.5G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 10",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "210": {
+      "id": "201876",
+      "title": "Black Tar Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 80",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "safeserve"
+    },
+    "211": {
+      "id": "95778",
+      "title": "Heroin White Powder Premium Turkish Import (1 gram) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 410",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "212": {
+      "id": "166925",
+      "title": "50 Gr High Afghan Heroin #H3 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 550",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "213": {
+      "id": "191404",
+      "title": "1 GRAM GREY Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 125",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "214": {
+      "id": "187732",
+      "title": "HQ AFGHANISTAN HEROIN 2 GRAM 75.00EUR WORLDWIDE SHIPPING!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "qualityshop"
+    },
+    "215": {
+      "id": "85708",
+      "title": "2 GRAMS - #4 AFGHAN GREY HEROIN (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "USD 285",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "216": {
+      "id": "188361",
+      "title": "5 GRAMS HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 380",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "217": {
+      "id": "171118",
+      "title": "Heroin pure Persian rocks -1gr-",
+      "category": "Opioids - Heroin",
+      "price": "EUR 42",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "frankmatthews"
+    },
+    "218": {
+      "id": "67961",
+      "title": "2 grams Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "219": {
+      "id": "81633",
+      "title": "10g IRANIAN EXTREME HEROIN +++ 1st CLASS UNCUT",
+      "category": "Opioids - Heroin",
+      "price": "EUR 485",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "pushar"
+    },
+    "220": {
+      "id": "186168",
+      "title": "12.5 GRAMS OF BLACK TAR HEROIN (CHEAPEST ON WHM)",
+      "category": "Opioids - Heroin",
+      "price": "USD 400",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "shardkingz"
+    },
+    "221": {
+      "id": "218849",
+      "title": "5 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 185",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "222": {
+      "id": "155729",
+      "title": "3.5g x PREMIUM AFGHAN CREAM - #3 HIGH PURITY - THE STRONGEST HEROIN AROUND (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 210",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "nhsdirect"
+    },
+    "223": {
+      "id": "202795",
+      "title": "+ 3.5G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 100",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "224": {
+      "id": "199805",
+      "title": "2g Pure Heroin No3 - soft and very strong, not for low tolerance users",
+      "category": "Opioids - Heroin",
+      "price": "EUR 100",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "225": {
+      "id": "166913",
+      "title": "10 Gr Pure Afghan Heroin #H3 88%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 225",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "226": {
+      "id": "129446",
+      "title": "4gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 96",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "227": {
+      "id": "108034",
+      "title": "Black Pearl Tar Uncut Heroin 1oz New Batch",
+      "category": "Opioids - Heroin",
+      "price": "USD 1800",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spacepope"
+    },
+    "228": {
+      "id": "150242",
+      "title": "100GR High Quality AFGHAN Heroine #3 UNCUT 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1950",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "229": {
+      "id": "205530",
+      "title": "O-Desmethyltramadol - 1g",
+      "category": "Opioids - Heroin",
+      "price": "AUD 200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "230": {
+      "id": "217203",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (7 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 555",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "231": {
+      "id": "122224",
+      "title": "7 Grams REAL #3 Grey Afghan Heroin - Free 2 day",
+      "category": "Opioids - Heroin",
+      "price": "USD 850",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "pharmahouse"
+    },
+    "232": {
+      "id": "207634",
+      "title": "10 Gram Afghan Heroin High-Quality",
+      "category": "Opioids - Heroin",
+      "price": "EUR 215",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "johnyxl"
+    },
+    "233": {
+      "id": "208578",
+      "title": "100.0g Synthetic Heroin #4.",
+      "category": "Opioids - Heroin",
+      "price": "USD 5000",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "234": {
+      "id": "130276",
+      "title": "NHSDirect - 2g PK GOLD #3 HEROIN - VERY POTENT HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 140",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "nhsdirect"
+    },
+    "235": {
+      "id": "136938",
+      "title": "**BULK** ROLLS ROYCE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "filthyfellas"
+    },
+    "236": {
+      "id": "206793",
+      "title": "HEROIN 3.5G - AFGHAN #3 DOUBLE KOI STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1345",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "237": {
+      "id": "212253",
+      "title": "100G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1200",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "238": {
+      "id": "167884",
+      "title": "7,5gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 350",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "239": {
+      "id": "74197",
+      "title": "10G COMMERCIAL HEROINE 30% PURITY - REALLY GOOD / ALL FEED POSITIF",
+      "category": "Opioids - Heroin",
+      "price": "EUR 290",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "240": {
+      "id": "113023",
+      "title": "Tan Afghan Uncut # 4 heroin (.2 )",
+      "category": "Opioids - Heroin",
+      "price": "USD 45",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "241": {
+      "id": "126766",
+      "title": "5Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 125",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "242": {
+      "id": "122216",
+      "title": "3.5 Grams REAL #3 Grey Afghan Heroin - Free 2 day",
+      "category": "Opioids - Heroin",
+      "price": "USD 450",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "pharmahouse"
+    },
+    "243": {
+      "id": "218081",
+      "title": "10GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 740",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "244": {
+      "id": "89608",
+      "title": "8Ball (3.5 grams) Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "245": {
+      "id": "167882",
+      "title": "3,5gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 170",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "246": {
+      "id": "113074",
+      "title": "1 Gram #4 UNCUT HEROIN AUTHENTIC TURKISH",
+      "category": "Opioids - Heroin",
+      "price": "USD 139",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "247": {
+      "id": "187722",
+      "title": "HQ AFGHANISTAN HEROIN 0.5 GRAM 20.00EUR WORLDWIDE SHIPPING!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 20",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "qualityshop"
+    },
+    "248": {
+      "id": "198571",
+      "title": "0.2G HQ #3 PURE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 15",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "budsbunny"
+    },
+    "249": {
+      "id": "171123",
+      "title": "Heroin pure Persian rocks -25gr-",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1000",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "frankmatthews"
+    },
+    "250": {
+      "id": "211706",
+      "title": "Heroin Blonde Afghan/ 25gram",
+      "category": "Opioids - Heroin",
+      "price": "EUR 700",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "cocacolacompany"
+    },
+    "251": {
+      "id": "128136",
+      "title": "HEROIN 7G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 4550",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "252": {
+      "id": "113078",
+      "title": "3.5 Grams #4 UNCUT HEROIN AUTHENTIC TURKISH",
+      "category": "Opioids - Heroin",
+      "price": "USD 430",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "253": {
+      "id": "180598",
+      "title": "28g High Class Cream Dream Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 920",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehacienda"
+    },
+    "254": {
+      "id": "218862",
+      "title": "75 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2175",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "255": {
+      "id": "152885",
+      "title": "Fentanyl patch Aurobindo 2 x 75ugl 90 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 90",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "256": {
+      "id": "207215",
+      "title": "Fentanyl patch Sandoz 3 x 50ugl 80 euro (DISCOUNT)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 80",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "257": {
+      "id": "104712",
+      "title": "Ready-to-Snort Heroin - 7g - Mexican Brown Powder (the best!)",
+      "category": "Opioids - Heroin",
+      "price": "USD 450",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "reasoninrevolt"
+    },
+    "258": {
+      "id": "207086",
+      "title": "3.0g Heroin #4 Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 270",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "259": {
+      "id": "108529",
+      "title": "(14) Grams PURE Off Tan/White/Grey #4 HEROIN NO FENT.",
+      "category": "Opioids - Heroin",
+      "price": "USD 2100",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "packflipper"
+    },
+    "260": {
+      "id": "212370",
+      "title": "0.25g Etazene",
+      "category": "Opioids - Heroin",
+      "price": "AUD 80",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "limit"
+    },
+    "261": {
+      "id": "218858",
+      "title": "15 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 495",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "262": {
+      "id": "72541",
+      "title": "100 grams Good Quality Heroin #3 (70%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1199",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "263": {
+      "id": "72538",
+      "title": "20 grams Good Quality Heroin #3 (70%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 299",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "264": {
+      "id": "89614",
+      "title": "Half Ounce (14 grams) Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 239",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "265": {
+      "id": "203826",
+      "title": "Fentanyl patch sandoz 10 x 25 ugl = 125 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 125",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "266": {
+      "id": "210588",
+      "title": "1G UBER HEROIN - Crazy Potency - Strongest in Europe. For the experienced user only.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 65",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "localpoppy"
+    },
+    "267": {
+      "id": "108523",
+      "title": "(1) Gram PURE Off Tan/White/Grey #4 HEROIN NO FENT.",
+      "category": "Opioids - Heroin",
+      "price": "USD 225",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "packflipper"
+    },
+    "268": {
+      "id": "212245",
+      "title": "1G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 20",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "269": {
+      "id": "151795",
+      "title": "20g Pure Afghan Heroin H3 - France to Europe",
+      "category": "Opioids - Heroin",
+      "price": "EUR 800",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "drugsource"
+    },
+    "270": {
+      "id": "112891",
+      "title": "14g Heroin #4 - (Free ExpressPost 2-4 Days)",
+      "category": "Opioids - Heroin",
+      "price": "CAD 1250",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "jacobgrimm"
+    },
+    "271": {
+      "id": "214750",
+      "title": "##WEEKOFFER%%15G Good Turkish Heroin 70%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 175",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "candyshop01"
+    },
+    "272": {
+      "id": "202499",
+      "title": "Smokers pack - Control your own %",
+      "category": "Opioids - Heroin",
+      "price": "EUR 110",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "273": {
+      "id": "111708",
+      "title": "(PROMOTION) 27,4 // 2x Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 65",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "274": {
+      "id": "72259",
+      "title": "8Ball (3.5 grams) Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 79",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "275": {
+      "id": "212979",
+      "title": "100 GRAMS OF BLACK TAR HEROIN (CHEAPEST ON WHM)",
+      "category": "Opioids - Heroin",
+      "price": "USD 3000",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "shardkingz"
+    },
+    "276": {
+      "id": "84032",
+      "title": "10g Pure Afghan Heroin H3 - France to Europe",
+      "category": "Opioids - Heroin",
+      "price": "EUR 430",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "drugsource"
+    },
+    "277": {
+      "id": "104288",
+      "title": "Black Pearl Tar Uncut Heroin 2 Grams New Batch",
+      "category": "Opioids - Heroin",
+      "price": "USD 190",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spacepope"
+    },
+    "278": {
+      "id": "211236",
+      "title": "Pakistani Heroin 200eu/5gr ! FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 200",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "279": {
+      "id": "206087",
+      "title": "10g uncut powerfull heroin high end quality germany",
+      "category": "Opioids - Heroin",
+      "price": "EUR 370",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "heroxxpress"
+    },
+    "280": {
+      "id": "189003",
+      "title": "0.5G High Quality Strong Turkish Heroin 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 17",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "candyshop01"
+    },
+    "281": {
+      "id": "170336",
+      "title": "25GR High Quality AFGHAN Heroine #3 UNCUT 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 500",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "282": {
+      "id": "218130",
+      "title": "8.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 637",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "283": {
+      "id": "152891",
+      "title": "Fentanyl patch Sandoz 1 x 75 ugl 50 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 50",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "284": {
+      "id": "172541",
+      "title": "Best value Heroin 0.5 gram",
+      "category": "Opioids - Heroin",
+      "price": "GBP 24",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "grippo"
+    },
+    "285": {
+      "id": "95783",
+      "title": "Heroin White Powder Premium Turkish Import (14 grams) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 5184",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "286": {
+      "id": "214518",
+      "title": "50gr Pure Heroin H3 Carbon -Germany To Europe Tracked 100% arrival Guranteed !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1250",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "germandutchteam"
+    },
+    "287": {
+      "id": "197275",
+      "title": "Fentanyl patch sandoz 100 x 12,5 ugl = 400 euro (discount price this week)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 400",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "288": {
+      "id": "126782",
+      "title": "4Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 64",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "289": {
+      "id": "208345",
+      "title": "500g - Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 9000",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "290": {
+      "id": "175580",
+      "title": "14g Double Lion White High Grade Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 6750",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    },
+    "291": {
+      "id": "84030",
+      "title": "2g Pure Afghan Heroin H3 - France to Europe",
+      "category": "Opioids - Heroin",
+      "price": "EUR 90",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "drugsource"
+    },
+    "292": {
+      "id": "218069",
+      "title": "4GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 300",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "293": {
+      "id": "85693",
+      "title": ".5 (half gram) - #4 Afghan Grey Heroin (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "USD 75",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "294": {
+      "id": "170337",
+      "title": "50GR High Quality AFGHAN Heroine #3 UNCUT 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 985",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "295": {
+      "id": "202757",
+      "title": "Fentanyl patch sandoz 50 x 25 ugl = 450 euro (discount price this week)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "296": {
+      "id": "72241",
+      "title": "Ounce (28 grams) Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 699",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "297": {
+      "id": "199608",
+      "title": "Afghan no.3 heroin-0.5g",
+      "category": "Opioids - Heroin",
+      "price": "GBP 32",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "jiffybagboys"
+    },
+    "298": {
+      "id": "205285",
+      "title": "50 gram HEROIN #4",
+      "category": "Opioids - Heroin",
+      "price": "USD 3400",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "darkgold19"
+    },
+    "299": {
+      "id": "72523",
+      "title": "20 grams High Quality Uncut Pure Afghan Heroin #3 (100%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 449",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "300": {
+      "id": "63603",
+      "title": "0.5gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 18",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "301": {
+      "id": "218571",
+      "title": "8.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 618",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "302": {
+      "id": "112737",
+      "title": "***SALE*** 10gr Heroin #3 +/- 65%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 160",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "303": {
+      "id": "150240",
+      "title": "200GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1700",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "304": {
+      "id": "218865",
+      "title": "250 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 6245",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "305": {
+      "id": "166896",
+      "title": "100 Gram Pure Afghan Heroin #H4 100%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2350",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "306": {
+      "id": "108530",
+      "title": "(1) OZ. PURE Off Tan/White/Grey #4 HEROIN NO FENT.",
+      "category": "Opioids - Heroin",
+      "price": "USD 4100",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "packflipper"
+    },
+    "307": {
+      "id": "183474",
+      "title": "3.1g - $500 HEROIN - OH HEROIN HOW I LOVE THEE SWEET MAMMA HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 500",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "h0tgirlzclub"
+    },
+    "308": {
+      "id": "217619",
+      "title": "SKIPPY",
+      "category": "Opioids - Heroin",
+      "price": "EUR 300",
+      "shipsFrom": "Germany",
+      "shipsTo": "Germany",
+      "vendor": "localpoppy"
+    },
+    "309": {
+      "id": "188388",
+      "title": "6 GRAMs HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 445",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "310": {
+      "id": "190313",
+      "title": "SAMPLE HEROINE PURE UNTOUCHED ROCK FREESHIP!! heroine",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "311": {
+      "id": "218565",
+      "title": "9.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 693",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "312": {
+      "id": "181987",
+      "title": "1 GRAM-#4 AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 180",
+      "shipsFrom": "Canada",
+      "shipsTo": "Worldwide",
+      "vendor": "therealdaytona"
+    },
+    "313": {
+      "id": "97072",
+      "title": "Heroin White Powder + Fishscale 92% Bolivian Cocaine - Ultimate Stimulus Pack 7",
+      "category": "Opioids - Heroin",
+      "price": "AUD 4500",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "314": {
+      "id": "67967",
+      "title": "50 grams Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 699",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "315": {
+      "id": "194948",
+      "title": "Sample Listing Pakistani Heroin",
+      "category": "Opioids - Heroin",
+      "price": "EUR 15",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "316": {
+      "id": "202797",
+      "title": "+ 7G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 182",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "317": {
+      "id": "141182",
+      "title": "**(4.5G)** Pure Afghan Heroin #3 (UNCUT) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 135",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "318": {
+      "id": "218864",
+      "title": "150 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 4045",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "319": {
+      "id": "187729",
+      "title": "HQ AFGHANISTAN HEROIN 1 GRAM 40.00EUR WORLDWIDE SHIPPING!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 40",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "qualityshop"
+    },
+    "320": {
+      "id": "67959",
+      "title": "1 gram Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "321": {
+      "id": "111706",
+      "title": "(PROMOTION) 27,4 // 1x Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 35",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "322": {
+      "id": "212369",
+      "title": "0.1g Etazene",
+      "category": "Opioids - Heroin",
+      "price": "AUD 40",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "limit"
+    },
+    "323": {
+      "id": "208577",
+      "title": "50.0g Synthetic Heroin #4.",
+      "category": "Opioids - Heroin",
+      "price": "USD 2750",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "324": {
+      "id": "108526",
+      "title": "(3) Grams PURE Off Tan/White/Grey #4 HEROIN NO FENT.",
+      "category": "Opioids - Heroin",
+      "price": "USD 600",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "packflipper"
+    },
+    "325": {
+      "id": "128622",
+      "title": "10Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 160",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "326": {
+      "id": "72228",
+      "title": "10 grams Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 269",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "327": {
+      "id": "112591",
+      "title": "5gr GOOD Quality Heroin 60%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "328": {
+      "id": "199842",
+      "title": "10g Heroin No3 - Perfect balance for price, what most call pure.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 272",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "329": {
+      "id": "206082",
+      "title": "2g uncut powerfull heroin high end quality germany",
+      "category": "Opioids - Heroin",
+      "price": "EUR 79",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "heroxxpress"
+    },
+    "330": {
+      "id": "72246",
+      "title": "1 gram Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 28",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "331": {
+      "id": "206792",
+      "title": "HEROIN 2G - AFGHAN #3 DOUBLE KOI STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 780",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "332": {
+      "id": "191409",
+      "title": "3.5 GRAMS GREY Heroin FREE sample",
+      "category": "Opioids - Heroin",
+      "price": "USD 350",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "333": {
+      "id": "167881",
+      "title": "2gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 100",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "334": {
+      "id": "206784",
+      "title": "HEROIN 0.25G - AFGHAN #3 DOUBLE KOI STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 105",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "335": {
+      "id": "190108",
+      "title": "20gr HEROINE PURE UNTOUCHED ROCK ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 425",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "336": {
+      "id": "95776",
+      "title": "Heroin White Powder Premium Turkish Import (0.5 gram) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 210",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "337": {
+      "id": "160605",
+      "title": "Black Tar Heroin 25.0 gram FIRE NUMERO UNO EL PRIMERO EN CALIDAD",
+      "category": "Opioids - Heroin",
+      "price": "USD 1420",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "kingtchalla"
+    },
+    "338": {
+      "id": "189039",
+      "title": "1G Good Turkish Heroin 70%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 19",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "candyshop01"
+    },
+    "339": {
+      "id": "202759",
+      "title": "Fentanyl patch sandoz 70 x 25 ugl = 600 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 600",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "340": {
+      "id": "177584",
+      "title": "500 grams Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 10000",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "341": {
+      "id": "191412",
+      "title": "14 GRAMS GREY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 1300",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "342": {
+      "id": "164934",
+      "title": "Heroin HCL 1g Offwhite/Gray",
+      "category": "Opioids - Heroin",
+      "price": "USD 80",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "monsanto"
+    },
+    "343": {
+      "id": "72236",
+      "title": "8Ball (3.5 grams) Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 109",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "344": {
+      "id": "218542",
+      "title": "7.75GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 581",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "345": {
+      "id": "134704",
+      "title": "28gr Famous West Coast #4 KILLER HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 2500",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "bcpremo"
+    },
+    "346": {
+      "id": "126204",
+      "title": "0.5G - HEROIN - LION STAMP (PURE)-(GOLDEN-TRIANGE IMPORT)-(PSS)- FREE STEALTH EXPRESS SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "AUD 375",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "puresunshine"
+    },
+    "347": {
+      "id": "218072",
+      "title": "3GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 225",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "348": {
+      "id": "72255",
+      "title": "20 grams Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 339",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "349": {
+      "id": "218113",
+      "title": "4.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 337",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "350": {
+      "id": "152892",
+      "title": "Fentanyl patch SANDOZ 2 x 37,5 ugl 60 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 60",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "351": {
+      "id": "134690",
+      "title": "0.5gr Famous West Coast #4 KILLER HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 65",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "bcpremo"
+    },
+    "352": {
+      "id": "190107",
+      "title": "10gr HEROINE PURE UNTOUCHED ROCK ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 223",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "353": {
+      "id": "72258",
+      "title": "100 grams Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1349",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "354": {
+      "id": "142782",
+      "title": "HEROIN 0.75G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 535",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "355": {
+      "id": "198576",
+      "title": "28G HQ #3 PURE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 900",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "budsbunny"
+    },
+    "356": {
+      "id": "213351",
+      "title": "0.15g PK PAKISTAN HEROIN- VERY POTENT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 10",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "happyshopper"
+    },
+    "357": {
+      "id": "217318",
+      "title": "BLACK TAR HEROIN (14 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 1085",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "358": {
+      "id": "173983",
+      "title": "100GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1350",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "359": {
+      "id": "206528",
+      "title": "HEROIN 14G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 9000",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "360": {
+      "id": "182111",
+      "title": "10 gram HEROIN #4",
+      "category": "Opioids - Heroin",
+      "price": "USD 925",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "darkgold19"
+    },
+    "361": {
+      "id": "67969",
+      "title": "100 grams Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1299",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "362": {
+      "id": "202796",
+      "title": "+ 7G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 182",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "363": {
+      "id": "150895",
+      "title": "HEROIN 0.1G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 100",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "364": {
+      "id": "218103",
+      "title": "7.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 562",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "365": {
+      "id": "205859",
+      "title": "3.1 gram China White - Directly from the source.",
+      "category": "Opioids - Heroin",
+      "price": "USD 400",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "icexchange"
+    },
+    "366": {
+      "id": "206084",
+      "title": "3g uncut powerfull heroin high end quality germany",
+      "category": "Opioids - Heroin",
+      "price": "EUR 117",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "heroxxpress"
+    },
+    "367": {
+      "id": "184701",
+      "title": "**(1G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 20",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "368": {
+      "id": "187740",
+      "title": "HQ AFGHANISTAN HEROIN 5 GRAM 175.00EUR WORLDWIDE SHIPPING!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 175",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "qualityshop"
+    },
+    "369": {
+      "id": "128616",
+      "title": "5Gram Strong Afghan Heroin #3 70% FREE WORLD WIDE SHIPPING!!!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 80",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "370": {
+      "id": "212249",
+      "title": "5G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "371": {
+      "id": "218860",
+      "title": "50 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1495",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "372": {
+      "id": "203933",
+      "title": "Etazene - 1000mg (POTENCY WARNING)",
+      "category": "Opioids - Heroin",
+      "price": "AUD 650",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "373": {
+      "id": "206080",
+      "title": "1g uncut powerfull heroin high end quality germany",
+      "category": "Opioids - Heroin",
+      "price": "EUR 42",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "heroxxpress"
+    },
+    "374": {
+      "id": "112890",
+      "title": "7g Heroin #4 - (Free ExpressPost 2-4 Days)",
+      "category": "Opioids - Heroin",
+      "price": "CAD 800",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "jacobgrimm"
+    },
+    "375": {
+      "id": "166920",
+      "title": "2 Gr High Afghan Heroin #H3 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "376": {
+      "id": "124918",
+      "title": "0.25g UNCUT HEROIN (DOUBLE UOGLOBE BRAND)",
+      "category": "Opioids - Heroin",
+      "price": "AUD 175",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "aussiebabes"
+    },
+    "377": {
+      "id": "166928",
+      "title": "100 Gr High Afghan Heroin #H3 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1000",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "378": {
+      "id": "189798",
+      "title": "1g ROLLS ROYCE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 50",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "filthyfellas"
+    },
+    "379": {
+      "id": "211232",
+      "title": "Pakistani Heroin ! 14500/500gr ! FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 14500",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "380": {
+      "id": "202793",
+      "title": "+ 0.5G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 18",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "381": {
+      "id": "207072",
+      "title": "12.0g Synthetic Heroin #4.",
+      "category": "Opioids - Heroin",
+      "price": "USD 780",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "382": {
+      "id": "72232",
+      "title": "20 grams Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 519",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "383": {
+      "id": "166918",
+      "title": "100 Gr Pure Afghan Heroin #H3 88%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2060",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "384": {
+      "id": "184703",
+      "title": "**(2G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 40",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "385": {
+      "id": "204003",
+      "title": "Fentanyl patch Sandoz 50 x 75 ugl 1500 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 3000",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "386": {
+      "id": "218555",
+      "title": "6.75GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 506",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "387": {
+      "id": "134698",
+      "title": "3.5gr Famous West Coast #4 KILLER HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 400",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "bcpremo"
+    },
+    "388": {
+      "id": "207069",
+      "title": "3.0g Synthetic Heroin #4.",
+      "category": "Opioids - Heroin",
+      "price": "USD 225",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "389": {
+      "id": "218509",
+      "title": "4.75GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 356",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "390": {
+      "id": "167888",
+      "title": "20gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 750",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "391": {
+      "id": "170331",
+      "title": "100GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 880",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "392": {
+      "id": "55425",
+      "title": "5g #3 Heroin (excellent quality)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 145",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "fairfax"
+    },
+    "393": {
+      "id": "129452",
+      "title": "25gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 600",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "394": {
+      "id": "218531",
+      "title": "1.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 93",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "395": {
+      "id": "180597",
+      "title": "14g High Class Cream Dream Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 495",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehacienda"
+    },
+    "396": {
+      "id": "63608",
+      "title": "3gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 72",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "397": {
+      "id": "208344",
+      "title": "1 kg - Afghan Heroin (uncut) 80%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 16500",
+      "shipsFrom": "France",
+      "shipsTo": "Worldwide",
+      "vendor": "mythbusters"
+    },
+    "398": {
+      "id": "173985",
+      "title": "25GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 360",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "399": {
+      "id": "191413",
+      "title": "28 GRAMS GREY Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 2400",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "superquantity"
+    },
+    "400": {
+      "id": "126756",
+      "title": "0.5Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 16",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "401": {
+      "id": "202916",
+      "title": "Tar Heroin BLACK SMACK (0.3g) (Sample Listing) (05-16 batch)",
+      "category": "Opioids - Heroin",
+      "price": "USD 1",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "feelg00d"
+    },
+    "402": {
+      "id": "206529",
+      "title": "HEROIN 28G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 17000",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "403": {
+      "id": "166816",
+      "title": "Black Tar Heroin 3.0 gram FIRE NUMERO UNO EL PRIMERO EN CALIDAD",
+      "category": "Opioids - Heroin",
+      "price": "USD 195",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "kingtchalla"
+    },
+    "404": {
+      "id": "180593",
+      "title": "0.2g High Class Cream Dream Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 20",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehacienda"
+    },
+    "405": {
+      "id": "207206",
+      "title": "Fentanyl patch Sandoz 3 x 100 ugl 165 euro (DISCOUNT)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 165",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "406": {
+      "id": "113027",
+      "title": "Tan Afghan Uncut # 4 heroin (1 Gram)",
+      "category": "Opioids - Heroin",
+      "price": "USD 135",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "407": {
+      "id": "85698",
+      "title": "1 GRAM - #4 AFGHAN GREY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 145",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "408": {
+      "id": "177300",
+      "title": "7G Highly Potent TURKISH DELIGHT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 280",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "409": {
+      "id": "176471",
+      "title": "1 g of Turkish BROWN (H3)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 90",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "sawinc"
+    },
+    "410": {
+      "id": "167883",
+      "title": "5gr 100% Pure Heroin AAA+ NO BULLSHIT(RESELLER STUFF)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 240",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "411": {
+      "id": "202357",
+      "title": "2g Afghan Heroin AAA+++ UK EU WORLDWIDE 6.45PM LAST ORDERS FOR NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 132",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dmsoldiersndd"
+    },
+    "412": {
+      "id": "71486",
+      "title": "BLACK TAR HEROIN (BTH) - 3g",
+      "category": "Opioids - Heroin",
+      "price": "USD 199",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "nutspracker"
+    },
+    "413": {
+      "id": "198884",
+      "title": "28g Pure RAW Heroin #4 92%+ pure TESTED",
+      "category": "Opioids - Heroin",
+      "price": "USD 2000",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "unitedairlines"
+    },
+    "414": {
+      "id": "177075",
+      "title": "Top Rated Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 24",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "grippo"
+    },
+    "415": {
+      "id": "123818",
+      "title": "10g Pure Afghan Heroin H3 - France to Worldwide",
+      "category": "Opioids - Heroin",
+      "price": "EUR 750",
+      "shipsFrom": "France",
+      "shipsTo": "Worldwide",
+      "vendor": "drugsource"
+    },
+    "416": {
+      "id": "104291",
+      "title": "Black Pearl Tar Uncut Heroin 7 Grams New Batch",
+      "category": "Opioids - Heroin",
+      "price": "USD 600",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spacepope"
+    },
+    "417": {
+      "id": "199840",
+      "title": "7g Heroin No3 - Perfect balance for price, what most call pure.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 191",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "418": {
+      "id": "218073",
+      "title": "2GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 150",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "419": {
+      "id": "197438",
+      "title": "25G Heroin Afghanistan H3# Top Quality",
+      "category": "Opioids - Heroin",
+      "price": "EUR 670",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "hornbach"
+    },
+    "420": {
+      "id": "218859",
+      "title": "25 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 795",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "421": {
+      "id": "129450",
+      "title": "10gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 240",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "422": {
+      "id": "129480",
+      "title": "50gr GOOD Quality Heroin 60%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 750",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "423": {
+      "id": "74205",
+      "title": "1G PURE HEROINE! EXCEPTIONAL PRODUCT! SMALL QUANTITY! IMPORT AFGHANISTAN !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 80",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "424": {
+      "id": "217588",
+      "title": "1GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "425": {
+      "id": "166912",
+      "title": "5 Gr Pure Afghan Heroin #H3 88%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 125",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "426": {
+      "id": "213382",
+      "title": "1.5g PK PAKISTAN HEROIN- VERY POTENT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 91",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "happyshopper"
+    },
+    "427": {
+      "id": "188391",
+      "title": "28 GRAMS HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 1580",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "428": {
+      "id": "207207",
+      "title": "Fentanyl patch Sandoz 5 x 100 ugl 250 euro (DISCOUNT)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 250",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "429": {
+      "id": "218065",
+      "title": "6GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "430": {
+      "id": "176533",
+      "title": "afghan heroin 70% very strong h3 10 grams",
+      "category": "Opioids - Heroin",
+      "price": "EUR 240",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "generalelectric1"
+    },
+    "431": {
+      "id": "206794",
+      "title": "HEROIN 7G - AFGHAN #3 DOUBLE KOI STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 2625",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "432": {
+      "id": "166904",
+      "title": "1 Gram Pure Afghan Heroin #H4 100%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 30",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "lidl"
+    },
+    "433": {
+      "id": "202798",
+      "title": "+ 14G + UNCUT SUPER STRONG AFGHAN HEROIN #3 + FRESH IMPORT + UK NDD",
+      "category": "Opioids - Heroin",
+      "price": "GBP 280",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "lg50"
+    },
+    "434": {
+      "id": "201553",
+      "title": "4G Heroine extra ++++ sent -12H",
+      "category": "Opioids - Heroin",
+      "price": "EUR 126",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "colombiandrugz1"
+    },
+    "435": {
+      "id": "190101",
+      "title": "0.5gr HEROINE PURE UNTOUCHED ROCK SAMPLE ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 16",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "436": {
+      "id": "60170",
+      "title": "10 grams Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 259",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "437": {
+      "id": "63572",
+      "title": "0.5gr Pure AAA+ Heroin #3 +90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 20",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "438": {
+      "id": "207110",
+      "title": "25.0g Heroin #4, Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 1750",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "439": {
+      "id": "200776",
+      "title": "2GR High Quality AFGHAN Heroine #3 UNCUT 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "440": {
+      "id": "214569",
+      "title": "Heroin HCL 25g Offwhite/Gray",
+      "category": "Opioids - Heroin",
+      "price": "USD 1750",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "monsanto"
+    },
+    "441": {
+      "id": "212250",
+      "title": "10G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 140",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "442": {
+      "id": "67963",
+      "title": "5 grams Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 99",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "443": {
+      "id": "105365",
+      "title": "Heroin Synthesis . Authentic Book on Heroin synthesis",
+      "category": "Opioids - Heroin",
+      "price": "USD 3",
+      "shipsFrom": "Digital / Service",
+      "shipsTo": "Digital / Service",
+      "vendor": "hotshop"
+    },
+    "444": {
+      "id": "212252",
+      "title": "50G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 625",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "445": {
+      "id": "205532",
+      "title": "O-Desmethyltramadol - 7g",
+      "category": "Opioids - Heroin",
+      "price": "AUD 875",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "446": {
+      "id": "67985",
+      "title": "500 grams Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 9999",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "447": {
+      "id": "108035",
+      "title": "Black Pearl Tar Uncut Heroin 2oz New Batch",
+      "category": "Opioids - Heroin",
+      "price": "USD 3500",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spacepope"
+    },
+    "448": {
+      "id": "118750",
+      "title": "14Gr Pure Heroin #4 Warning level X uncut product Express Shipping",
+      "category": "Opioids - Heroin",
+      "price": "CAD 1900",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "icywhitenorth1"
+    },
+    "449": {
+      "id": "170906",
+      "title": "Dark Turkish Heroin!! Lab-tested, TOP QUALITY ! 100% good feedback!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 40",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "450": {
+      "id": "77475",
+      "title": "3 Grams - Pure Afghan Heroin #3 (87%) Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 70",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "dailypaper"
+    },
+    "451": {
+      "id": "103237",
+      "title": "1g Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 400",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    },
+    "452": {
+      "id": "171124",
+      "title": "Heroin pure Persian rocks -50gr-",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1900",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "frankmatthews"
+    },
+    "453": {
+      "id": "72536",
+      "title": "10 grams Good Quality Heroin #3 (70%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 159",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "454": {
+      "id": "134702",
+      "title": "14gr Famous West Coast #4 KILLER HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 1300",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "bcpremo"
+    },
+    "455": {
+      "id": "217201",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (1.7)",
+      "category": "Opioids - Heroin",
+      "price": "USD 133",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "456": {
+      "id": "63574",
+      "title": "***SALE***1gr Pure AAA+ Heroin #3 +90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "457": {
+      "id": "98983",
+      "title": "Ready-to-Snort Heroin - 1g - Mexican Brown Powder (the best!)",
+      "category": "Opioids - Heroin",
+      "price": "USD 80",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "reasoninrevolt"
+    },
+    "458": {
+      "id": "199819",
+      "title": "4g Heroin No3 - 50% - Perfect balance for most users.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 110",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "459": {
+      "id": "166818",
+      "title": "Black Tar Heroin 0.5 gram FIRE NUMERO UNO EL PRIMERO EN CALIDAD",
+      "category": "Opioids - Heroin",
+      "price": "USD 45",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "kingtchalla"
+    },
+    "460": {
+      "id": "74786",
+      "title": "1.0G HEROIN FRESH FROM PAKISTAN (FREE 1ST CLASS LARGE STAMP)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 47",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "vendorcaut2tuff"
+    },
+    "461": {
+      "id": "199609",
+      "title": "Afghan no.3 heroin-1g",
+      "category": "Opioids - Heroin",
+      "price": "GBP 60",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "jiffybagboys"
+    },
+    "462": {
+      "id": "199804",
+      "title": "3g Pure Heroin No3 - soft and very strong, not for low tolerance users.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 145",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "463": {
+      "id": "72527",
+      "title": "100 grams High Quality Uncut Pure Afghan Heroin #3 (100%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 2199",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "464": {
+      "id": "85691",
+      "title": ".2 Sample - #4 Afghan Grey Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 40",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "465": {
+      "id": "206527",
+      "title": "HEROIN 28G - MARKET HC GRADE - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 10200",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "466": {
+      "id": "208174",
+      "title": "1g Heroin !!UNCUT!! !!HIGH POTENT QUALITY!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "European Union",
+      "vendor": "is0mer"
+    },
+    "467": {
+      "id": "67964",
+      "title": "10 grams Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 179",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "468": {
+      "id": "112608",
+      "title": "HEROIN 0.25G - GENUINE LION STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 185",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "469": {
+      "id": "207021",
+      "title": "1 gram Diacetylmorphine (Heroin) Hydrochloride",
+      "category": "Opioids - Heroin",
+      "price": "USD 120",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shadowfirm"
+    },
+    "470": {
+      "id": "200767",
+      "title": "3.5GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 35",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "471": {
+      "id": "173986",
+      "title": "15GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 225",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "472": {
+      "id": "122208",
+      "title": "1 Gram REAL Afghan #3 Grey Heroin",
+      "category": "Opioids - Heroin",
+      "price": "USD 139",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "pharmahouse"
+    },
+    "473": {
+      "id": "89604",
+      "title": "Ounce (28 grams) Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 685",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "474": {
+      "id": "208576",
+      "title": "100.0g Heroin #4, Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 6000",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "475": {
+      "id": "108940",
+      "title": "0.5g IRANIAN EXTREME HEROIN +++ 1st CLASS UNCUT",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "pushar"
+    },
+    "476": {
+      "id": "74290",
+      "title": "0.5g x PREMIUM AFGHAN CREAM - #3 HIGH PURITY - THE STRONGEST HEROIN AROUND",
+      "category": "Opioids - Heroin",
+      "price": "GBP 37",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "nhsdirect"
+    },
+    "477": {
+      "id": "204780",
+      "title": "1 gram China White - Directly from the source.",
+      "category": "Opioids - Heroin",
+      "price": "USD 120",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "icexchange"
+    },
+    "478": {
+      "id": "188390",
+      "title": "14 GRAMS HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 860",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "479": {
+      "id": "180595",
+      "title": "3.5g High Class Cream Dream Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 135",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehacienda"
+    },
+    "480": {
+      "id": "136936",
+      "title": "ROLLS ROYCE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "filthyfellas"
+    },
+    "481": {
+      "id": "201551",
+      "title": "2G Heroine extra ++++ sent -12H",
+      "category": "Opioids - Heroin",
+      "price": "EUR 66",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "colombiandrugz1"
+    },
+    "482": {
+      "id": "190109",
+      "title": "25gr HEROINE PURE UNTOUCHED ROCK FREESHIP",
+      "category": "Opioids - Heroin",
+      "price": "EUR 525",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "483": {
+      "id": "95022",
+      "title": "10 Grams - Pure Afghan Heroin #3 (87%) Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 222",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "dailypaper"
+    },
+    "484": {
+      "id": "211699",
+      "title": "***SALE*** Heroin Blonde Afghan/ 5gram ***HQ***",
+      "category": "Opioids - Heroin",
+      "price": "EUR 110",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "cocacolacompany"
+    },
+    "485": {
+      "id": "173834",
+      "title": "150GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1950",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "486": {
+      "id": "95780",
+      "title": "Heroin White Powder Premium Turkish Import (3.5 grams) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1400",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "487": {
+      "id": "214899",
+      "title": "3.5g *SALE* Pure, Uncut Mexican Heroin - Directly from the Source",
+      "category": "Opioids - Heroin",
+      "price": "USD 365",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "casablanc"
+    },
+    "488": {
+      "id": "206998",
+      "title": "5G COMMERCIAL HEROINE 50% PURITY - REALLY GOOD / NEW PRODUCT ON THE CASA EXCLU !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 250",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "489": {
+      "id": "72534",
+      "title": "5 grams Good Quality Heroin #3 (70%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 79",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "490": {
+      "id": "167238",
+      "title": "Fentanyl patch sandoz 50 x 12,5 ugl = 225 euro (discount price this week)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 225",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "491": {
+      "id": "164929",
+      "title": "Heroin HCL 0.3g Offwhite/Gray",
+      "category": "Opioids - Heroin",
+      "price": "USD 42",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "monsanto"
+    },
+    "492": {
+      "id": "198570",
+      "title": "0.5G HQ #3 PURE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 25",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "budsbunny"
+    },
+    "493": {
+      "id": "205531",
+      "title": "O-Desmethyltramadol - 14g",
+      "category": "Opioids - Heroin",
+      "price": "AUD 1400",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "494": {
+      "id": "206085",
+      "title": "5g uncut powerfull heroin high end quality germany SPEZIAL PRICE!!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 178",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "heroxxpress"
+    },
+    "495": {
+      "id": "63592",
+      "title": "***SALE*** 3gr Heroin #3 +/- 65%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 48",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "496": {
+      "id": "130280",
+      "title": "NHSDirect - 3.5g PK GOLD #3 HEROIN - VERY POTENT HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 230",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "nhsdirect"
+    },
+    "497": {
+      "id": "81622",
+      "title": "2g IRANIAN EXTREME HEROIN +++ 1st CLASS UNCUT",
+      "category": "Opioids - Heroin",
+      "price": "EUR 125",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "pushar"
+    },
+    "498": {
+      "id": "217347",
+      "title": "(14 GRAMS) BLACK TAR HEROIN (LAB QUALITY) BEST AROUND HANDS DOWN!!",
+      "category": "Opioids - Heroin",
+      "price": "USD 1080",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "499": {
+      "id": "208573",
+      "title": "50.0g Heroin #4, Natural.",
+      "category": "Opioids - Heroin",
+      "price": "USD 3250",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "500": {
+      "id": "182132",
+      "title": "Fentanyl patch Aurobindo 10 x 75ugl 450 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "501": {
+      "id": "217199",
+      "title": "BLACK TAR HEROIN A++ AUTHENTIC (.5)",
+      "category": "Opioids - Heroin",
+      "price": "USD 70",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "502": {
+      "id": "112739",
+      "title": "***SALE*** 25gr Heroin #3 +/- 65%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 400",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "503": {
+      "id": "184706",
+      "title": "**(3.5G)** High Quality Heroin #3 (91%) - Free WW-Shipping",
+      "category": "Opioids - Heroin",
+      "price": "EUR 70",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "rs7"
+    },
+    "504": {
+      "id": "124916",
+      "title": "0.5g UNCUT HEROIN (DOUBLE UOGLOBE BRAND)",
+      "category": "Opioids - Heroin",
+      "price": "AUD 310",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "aussiebabes"
+    },
+    "505": {
+      "id": "126708",
+      "title": "2G - HEROIN - (WHITE-RHINO) CHINA WHITE (GOLDEN-TRIANGLE IMPORT)-(PSS)- FREE STEALTH EXPRESS SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "AUD 820",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "puresunshine"
+    },
+    "506": {
+      "id": "60150",
+      "title": "1 gram Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 29",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "507": {
+      "id": "207077",
+      "title": "25.0g Synthetic Heroin #4.",
+      "category": "Opioids - Heroin",
+      "price": "USD 1500",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "santamuerte"
+    },
+    "508": {
+      "id": "207209",
+      "title": "Fentanyl patch Sandoz 10 x 100ugl 450 euro (DISCOUNT)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 450",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "509": {
+      "id": "60161",
+      "title": "2 grams Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 57",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "510": {
+      "id": "206791",
+      "title": "HEROIN 1G - AFGHAN #3 DOUBLE KOI STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 400",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "511": {
+      "id": "205561",
+      "title": "O-Desmethyltramadol - 28g",
+      "category": "Opioids - Heroin",
+      "price": "AUD 2100",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "solutionslut"
+    },
+    "512": {
+      "id": "211230",
+      "title": "Pakistani Heroin ! 14500/500gr ! FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 14500",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "513": {
+      "id": "180809",
+      "title": "2 gram HEROIN #4",
+      "category": "Opioids - Heroin",
+      "price": "USD 220",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "darkgold19"
+    },
+    "514": {
+      "id": "218846",
+      "title": "3 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 115",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "515": {
+      "id": "188389",
+      "title": "7 GRAMS HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 500",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "516": {
+      "id": "212981",
+      "title": "75 GRAMS OF BLACK TAR HEROIN (CHEAPEST ON WHM)",
+      "category": "Opioids - Heroin",
+      "price": "USD 2285",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "shardkingz"
+    },
+    "517": {
+      "id": "218510",
+      "title": "4.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 318",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "518": {
+      "id": "128360",
+      "title": "7G Highly Potent THE DREAM CREAM #3 Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 330",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "519": {
+      "id": "167890",
+      "title": "SPECIAL OFFER 0,5gr 100% Pure Heroin AAA+ and 0,5gr Pure Colombian Fischscale Cocaine AAA+",
+      "category": "Opioids - Heroin",
+      "price": "EUR 65",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "superfleks"
+    },
+    "520": {
+      "id": "55426",
+      "title": "10g #3 Heroin (excellent quality)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 275",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "fairfax"
+    },
+    "521": {
+      "id": "180596",
+      "title": "7g High Class Cream Dream Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 235",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "thehacienda"
+    },
+    "522": {
+      "id": "55421",
+      "title": "1g #3 Heroin (excellent quality)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 35",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "fairfax"
+    },
+    "523": {
+      "id": "89610",
+      "title": "Quad (7 grams) Strong Turkish Heroin #3 (70%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 135",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "524": {
+      "id": "211237",
+      "title": "Pakistani Heroin 45eu/1gr ! FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "525": {
+      "id": "177295",
+      "title": "0.5G Highly Potent TURKISH DELIGHT",
+      "category": "Opioids - Heroin",
+      "price": "GBP 30",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "526": {
+      "id": "199814",
+      "title": "1g Pure Heroin No3 - very strong, not for low tolerance users.",
+      "category": "Opioids - Heroin",
+      "price": "EUR 53",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "localpoppy"
+    },
+    "527": {
+      "id": "63604",
+      "title": "1gr Pure Uncut Afghan Heroin #3",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "528": {
+      "id": "133134",
+      "title": "LAB TESTED 88% PURE TAN #4 HEROIN! Rocks NOT Powder! BEST H YET! QTY:25G",
+      "category": "Opioids - Heroin",
+      "price": "USD 2625",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "alwaysthebest"
+    },
+    "529": {
+      "id": "202755",
+      "title": "Fentanyl patch sandoz 100 x 25 ugl = 800 euro (discount price this week)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 850",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "530": {
+      "id": "60822",
+      "title": "1g Double Lion White High Grade Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 530",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    },
+    "531": {
+      "id": "200765",
+      "title": "10GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 90",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "532": {
+      "id": "129210",
+      "title": "1g Afghan Heroin#3 top quality 6.45pm last orders",
+      "category": "Opioids - Heroin",
+      "price": "GBP 71",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dmsoldiersndd"
+    },
+    "533": {
+      "id": "60173",
+      "title": "20 grams Pure Afghan Heroin #3 (100%) - FREE WORLDWIDE SHIPPING !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 499",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "tomandjerry"
+    },
+    "534": {
+      "id": "218556",
+      "title": "6.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 468",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "535": {
+      "id": "126714",
+      "title": "7G - HEROIN - (WHITE-RHINO) CHINA WHITE (GOLDEN-TRIANGLE IMPORT)-(PSS)- FREE STEALTH EXPRESS SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "AUD 2745",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "puresunshine"
+    },
+    "536": {
+      "id": "207094",
+      "title": "12.5 gram Diacetylmorphine (Heroin) Hydrochloride",
+      "category": "Opioids - Heroin",
+      "price": "USD 1200",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shadowfirm"
+    },
+    "537": {
+      "id": "217316",
+      "title": "BLACK TAR HEROIN (3.5 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 280",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "538": {
+      "id": "218857",
+      "title": "10 gram High Quality pure HEROIN #3 Light brown untouched no cuts!",
+      "category": "Opioids - Heroin",
+      "price": "EUR 340",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "539": {
+      "id": "126764",
+      "title": "4Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 100",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "540": {
+      "id": "103127",
+      "title": "Original Hexal Methadicct Tabl. 40mg",
+      "category": "Opioids - Heroin",
+      "price": "EUR 17",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "wasntme"
+    },
+    "541": {
+      "id": "129172",
+      "title": "0.1g Afghan Heroin#3 top quality 6.45pm last orders*50% off*",
+      "category": "Opioids - Heroin",
+      "price": "GBP 6",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dmsoldiersndd"
+    },
+    "542": {
+      "id": "181989",
+      "title": "2 GRAMS-#4 AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 320",
+      "shipsFrom": "Canada",
+      "shipsTo": "Worldwide",
+      "vendor": "therealdaytona"
+    },
+    "543": {
+      "id": "218516",
+      "title": "3.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 243",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "544": {
+      "id": "126762",
+      "title": "3Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "545": {
+      "id": "121055",
+      "title": "1g HEROIN #4 - Afghan No Fentanyl + Long Strong Legs *PAIN RELIEF*",
+      "category": "Opioids - Heroin",
+      "price": "CAD 140",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "alwaysoverweight"
+    },
+    "546": {
+      "id": "128240",
+      "title": "0.5G Highly Potent THE DREAM CREAM #3 Afghan Heroin",
+      "category": "Opioids - Heroin",
+      "price": "GBP 40",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "rayfulwhyte"
+    },
+    "547": {
+      "id": "95784",
+      "title": "Heroin White Powder Premium Turkish Import (28 grams) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 9237",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "548": {
+      "id": "87740",
+      "title": "7Gr Pure Heroin #4 Warning level X uncut product Express Shipping",
+      "category": "Opioids - Heroin",
+      "price": "CAD 1000",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "icywhitenorth1"
+    },
+    "549": {
+      "id": "213191",
+      "title": "1g Heroin #3 Persian - SUPER SALE - FREE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 35",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "astar"
+    },
+    "550": {
+      "id": "207091",
+      "title": "6.2 gram Diacetylmorphine (Heroin) Hydrochloride",
+      "category": "Opioids - Heroin",
+      "price": "USD 620",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shadowfirm"
+    },
+    "551": {
+      "id": "218845",
+      "title": "1 gram High Quality pure HEROIN #3 Light brown",
+      "category": "Opioids - Heroin",
+      "price": "EUR 40",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "montblanc"
+    },
+    "552": {
+      "id": "218548",
+      "title": "5.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 393",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "553": {
+      "id": "211234",
+      "title": "Pakistani Heroin ! 350eu/10gr ! FREE SAMPLE ! Try Now! DopeMastersNL",
+      "category": "Opioids - Heroin",
+      "price": "EUR 350",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "554": {
+      "id": "136918",
+      "title": "2G COMMERCIAL HEROINE 50% PURITY - REALLY GOOD / NEW PRODUCT ON THE CASA EXCLU !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 110",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "alibabafrance"
+    },
+    "555": {
+      "id": "126770",
+      "title": "20Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 500",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "556": {
+      "id": "176470",
+      "title": "0.5 g of Turkish BROWN",
+      "category": "Opioids - Heroin",
+      "price": "EUR 50",
+      "shipsFrom": "European Union",
+      "shipsTo": "Worldwide",
+      "vendor": "sawinc"
+    },
+    "557": {
+      "id": "218064",
+      "title": "5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 375",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "558": {
+      "id": "126772",
+      "title": "25Gram Pure Afghan Heroin #3 AAA+ FREE WORLD WIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 625",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopenl"
+    },
+    "559": {
+      "id": "212247",
+      "title": "2G Afghan Heroine commercial 40-50%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 36",
+      "shipsFrom": "France",
+      "shipsTo": "France",
+      "vendor": "franceboss"
+    },
+    "560": {
+      "id": "143928",
+      "title": "LAB TESTED 88% PURE TAN #4 HEROIN! Rocks NOT Powder! BEST H YET! QTY:3G",
+      "category": "Opioids - Heroin",
+      "price": "USD 465",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "alwaysthebest"
+    },
+    "561": {
+      "id": "74284",
+      "title": "1Gx PREMIUM AFGHAN CREAM - #3 HIGH PURITY - THE STRONGEST HEROIN AROUND",
+      "category": "Opioids - Heroin",
+      "price": "GBP 65",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "nhsdirect"
+    },
+    "562": {
+      "id": "200766",
+      "title": "5GR High Quality AFGHAN Heroine #1 55%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 45",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "563": {
+      "id": "63578",
+      "title": "***SALE***3gr Pure AAA+ Heroin #3 +90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "564": {
+      "id": "63594",
+      "title": "***SALE*** 4gr Heroin #3 +/- 65%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 64",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dutchdrugs"
+    },
+    "565": {
+      "id": "192972",
+      "title": "// 1g-10g // Heroin #3 Persian - SUPER SALE - FREE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "astar"
+    },
+    "566": {
+      "id": "218106",
+      "title": "6.5GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 487",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "567": {
+      "id": "133144",
+      "title": "LAB TESTED 88% PURE TAN #4 HEROIN! Rocks NOT Powder! BEST H YET! QTY:1G",
+      "category": "Opioids - Heroin",
+      "price": "USD 165",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "alwaysthebest"
+    },
+    "568": {
+      "id": "85706",
+      "title": "3.5 GRAMS - #4 AFGHAN GREY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 430",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "569": {
+      "id": "213204",
+      "title": "25g Heroin #3 Persian - SUPER SALE - FREE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 700",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "astar"
+    },
+    "570": {
+      "id": "113034",
+      "title": "Tan Afghan Uncut # 4 heroin (3.5)",
+      "category": "Opioids - Heroin",
+      "price": "USD 420",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "571": {
+      "id": "207200",
+      "title": "Fentanyl patch Sandoz 20 x 75 ugl 800 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 800",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "572": {
+      "id": "207095",
+      "title": "25 gram Diacetylmorphine (Heroin) Hydrochloride",
+      "category": "Opioids - Heroin",
+      "price": "USD 2200",
+      "shipsFrom": "United States",
+      "shipsTo": "Worldwide",
+      "vendor": "shadowfirm"
+    },
+    "573": {
+      "id": "218524",
+      "title": "2.25GR 100% PURE AFGHAN HEROIN UNCUT AAA+ / WORLDWIDE SHIPPING",
+      "category": "Opioids - Heroin",
+      "price": "EUR 168",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "amsterdamexpress"
+    },
+    "574": {
+      "id": "198929",
+      "title": "Special Sample Listing 1gr paki hero and 0.25 H4 75eu",
+      "category": "Opioids - Heroin",
+      "price": "EUR 75",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "575": {
+      "id": "189005",
+      "title": "1G High Quality Strong Turkish Heroin 90%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 31",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "candyshop01"
+    },
+    "576": {
+      "id": "123820",
+      "title": "15g Pure Afghan Heroin H3 - France to Worldwide",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1040",
+      "shipsFrom": "France",
+      "shipsTo": "Worldwide",
+      "vendor": "drugsource"
+    },
+    "577": {
+      "id": "198022",
+      "title": "7g HQ #3 PURE AFGHAN HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "GBP 250",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "budsbunny"
+    },
+    "578": {
+      "id": "81635",
+      "title": "25g IRANIAN EXTREME HEROIN +++ 1st CLASS UNCUT",
+      "category": "Opioids - Heroin",
+      "price": "EUR 1400",
+      "shipsFrom": "Germany",
+      "shipsTo": "European Union",
+      "vendor": "pushar"
+    },
+    "579": {
+      "id": "136926",
+      "title": "ARCTIC WOLF HERO!! (0.5g-14g)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 1",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "tescoexpress"
+    },
+    "580": {
+      "id": "72239",
+      "title": "Half Ounce (14 grams) Pure Afghan Heroin #3 (95%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 375",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "581": {
+      "id": "74784",
+      "title": "0.5G HEROIN FRESH FROM PAKISTAN (FREE 1ST CLASS LARGE STAMP)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 24",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "United Kingdom",
+      "vendor": "vendorcaut2tuff"
+    },
+    "582": {
+      "id": "183471",
+      "title": "0.2g - $60 HEROIN SAMPLE - OH HEROIN HOW I LOVE THEE SWEET MAMMA HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 60",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "h0tgirlzclub"
+    },
+    "583": {
+      "id": "80290",
+      "title": "10G Heroin Afghanistan H3# Top Quality",
+      "category": "Opioids - Heroin",
+      "price": "EUR 299",
+      "shipsFrom": "Germany",
+      "shipsTo": "Worldwide",
+      "vendor": "hornbach"
+    },
+    "584": {
+      "id": "95789",
+      "title": "Heroin White Powder Premium Turkish Import (500 grams) - Best in Australia",
+      "category": "Opioids - Heroin",
+      "price": "AUD 135000",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "auspride"
+    },
+    "585": {
+      "id": "72515",
+      "title": "2 grams High Quality Uncut Pure Afghan Heroin #3 (100%) / NL to NL !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 49",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Netherlands",
+      "vendor": "postnl"
+    },
+    "586": {
+      "id": "188360",
+      "title": "4 GRAMS HIGH QUALITY HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "USD 310",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "drblitz"
+    },
+    "587": {
+      "id": "200771",
+      "title": "2,5GR High Quality AFGHAN Heroine #2 75%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 37",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "theodormorell"
+    },
+    "588": {
+      "id": "202500",
+      "title": "3.5g Afghan Heroin AAA+++ UK EU WORLDWIDE 6.45PM LAST ORDERS FOR NDD (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "GBP 175",
+      "shipsFrom": "United Kingdom",
+      "shipsTo": "Worldwide",
+      "vendor": "dmsoldiersndd"
+    },
+    "589": {
+      "id": "104292",
+      "title": "Black Pearl Tar Uncut Heroin 14 Grams New Batch",
+      "category": "Opioids - Heroin",
+      "price": "USD 1000",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "spacepope"
+    },
+    "590": {
+      "id": "182002",
+      "title": "Black Tar Heroin 1.0 gram FIRE NUMERO UNO EL PRIMERO EN CALIDAD",
+      "category": "Opioids - Heroin",
+      "price": "USD 75",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "kingtchalla"
+    },
+    "591": {
+      "id": "190103",
+      "title": "2gr HEROINE PURE UNTOUCHED ROCK ( FREE SHIP PROMO )",
+      "category": "Opioids - Heroin",
+      "price": "EUR 51",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "cocokingz"
+    },
+    "592": {
+      "id": "113076",
+      "title": "2 Gram #4 UNCUT HEROIN AUTHENTIC TURKISH",
+      "category": "Opioids - Heroin",
+      "price": "USD 275",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "qualitysupreme"
+    },
+    "593": {
+      "id": "121061",
+      "title": "7g HEROIN #4 - Afghan No Fentanyl + Long Strong Legs *PAIN RELIEF*",
+      "category": "Opioids - Heroin",
+      "price": "CAD 805",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "alwaysoverweight"
+    },
+    "594": {
+      "id": "217317",
+      "title": "BLACK TAR HEROIN (7 GRAMS)",
+      "category": "Opioids - Heroin",
+      "price": "USD 560",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "deepdotdope"
+    },
+    "595": {
+      "id": "134700",
+      "title": "7gr Famous West Coast #4 KILLER HEROIN",
+      "category": "Opioids - Heroin",
+      "price": "CAD 700",
+      "shipsFrom": "Canada",
+      "shipsTo": "Canada",
+      "vendor": "bcpremo"
+    },
+    "596": {
+      "id": "176532",
+      "title": "afghan heroin 70% very strong h3 1 gram 25",
+      "category": "Opioids - Heroin",
+      "price": "EUR 25",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "generalelectric1"
+    },
+    "597": {
+      "id": "175579",
+      "title": "28g Double Lion White High Grade Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 13500",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    },
+    "598": {
+      "id": "84031",
+      "title": "5g Pure Afghan Heroin H3 - France to Europe",
+      "category": "Opioids - Heroin",
+      "price": "EUR 230",
+      "shipsFrom": "France",
+      "shipsTo": "European Union",
+      "vendor": "drugsource"
+    },
+    "599": {
+      "id": "63616",
+      "title": "2gr GOOD Quality Heroin 60%",
+      "category": "Opioids - Heroin",
+      "price": "EUR 30",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "drugzfromnl"
+    },
+    "600": {
+      "id": "211643",
+      "title": "Dark Turkish Heroin ! 500gr/10500eu ! FREE SAMPLE! Try Now! DopeMastersNL (Duplicate)",
+      "category": "Opioids - Heroin",
+      "price": "EUR 10500",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "dopemastersnl"
+    },
+    "601": {
+      "id": "164793",
+      "title": "Fentanyl patch Aurobindo 10 patches 700 euro",
+      "category": "Opioids - Heroin",
+      "price": "EUR 700",
+      "shipsFrom": "Belgium",
+      "shipsTo": "Worldwide",
+      "vendor": "medicalking007"
+    },
+    "602": {
+      "id": "72248",
+      "title": "2 grams Good Turkish Heroin #3 (73%) - Free Shipping !",
+      "category": "Opioids - Heroin",
+      "price": "EUR 48",
+      "shipsFrom": "Netherlands",
+      "shipsTo": "Worldwide",
+      "vendor": "mickeymousenl"
+    },
+    "603": {
+      "id": "217345",
+      "title": "(3.5G) BLACK TAR HEROIN (LAB QUALITY)BEST AROUND HANDS DOWN!!",
+      "category": "Opioids - Heroin",
+      "price": "USD 275",
+      "shipsFrom": "United States",
+      "shipsTo": "United States",
+      "vendor": "1hero"
+    },
+    "604": {
+      "id": "165527",
+      "title": "PARTYPACK - 1G - MARKET HC GRADE - 1G - COCAINE A GRADE PURE SPORT STAMP - INC.",
+      "category": "Opioids - Heroin",
+      "price": "AUD 795",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "inc"
+    },
+    "605": {
+      "id": "152686",
+      "title": "0.5g Double Lion White High Grade Heroin",
+      "category": "Opioids - Heroin",
+      "price": "AUD 280",
+      "shipsFrom": "Australia",
+      "shipsTo": "Australia",
+      "vendor": "ozbay"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60aa5fbe1e73bca69364cf57"
+  },
+  "name": "vendors",
+  "values": {
+    "0": {
+      "username": "alibabafrance",
+      "joined": "December 2019",
+      "feedback": "377",
+      "sales": "520 - 530",
+      "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----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=H56h-----END PGP PUBLIC KEY BLOCK-----",
+      "fingerprint": "7F08B21E1E676912C8E706B748C267C1D9B21F36"
+    },
+    "1": {
+      "username": "1hero",
+      "joined": "August 2020",
+      "feedback": "596",
+      "sales": "1090 - 1100",
+      "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----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=M1xC-----END PGP PUBLIC KEY BLOCK-----",
+      "fingerprint": "AE5909FD308DF6CA215AA061A9B88B315B7F20AF"
+    },
+    "2": {
+      "username": "qualitysupreme",
+      "joined": "August 2020",
+      "feedback": "385",
+      "sales": "610 - 620",
+      "publicKey": "-----BEGIN PGP PUBLIC KEY BLOCK-----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kQeB-----END PGP PUBLIC KEY BLOCK-----",
+      "fingerprint": "321023A25439A81C1A912FA09030C8E3181217D9"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60aa5fbe1e73bca69364cf59"
+  },
+  "name": "categories",
+  "values": {
+    "0": {
+      "id": "4",
+      "name": "Benzos - Other",
+      "amountOfListings": "61"
+    },
+    "1": {
+      "id": "1",
+      "name": "Benzos - Pills",
+      "amountOfListings": "2214"
+    },
+    "2": {
+      "id": "2",
+      "name": "Benzos - Powder",
+      "amountOfListings": "230"
+    },
+    "3": {
+      "id": "3",
+      "name": "Benzos - RC",
+      "amountOfListings": "81"
+    },
+    "4": {
+      "id": "5",
+      "name": "Cannabis - Buds and Flowers",
+      "amountOfListings": "5923"
+    },
+    "5": {
+      "id": "6",
+      "name": "Cannabis - Concentrates",
+      "amountOfListings": "2364"
+    },
+    "6": {
+      "id": "7",
+      "name": "Cannabis - Edibles",
+      "amountOfListings": "922"
+    },
+    "7": {
+      "id": "8",
+      "name": "Cannabis - Hash",
+      "amountOfListings": "968"
+    },
+    "8": {
+      "id": "12",
+      "name": "Cannabis - Other",
+      "amountOfListings": "204"
+    },
+    "9": {
+      "id": "9",
+      "name": "Cannabis - Seeds",
+      "amountOfListings": "131"
+    },
+    "10": {
+      "id": "10",
+      "name": "Cannabis - Shake",
+      "amountOfListings": "250"
+    },
+    "11": {
+      "id": "11",
+      "name": "Cannabis - Synthetic",
+      "amountOfListings": "154"
+    },
+    "12": {
+      "id": "94",
+      "name": "Cannabis - Syrup",
+      "amountOfListings": "14"
+    },
+    "13": {
+      "id": "15",
+      "name": "Dissociatives - GHB",
+      "amountOfListings": "137"
+    },
+    "14": {
+      "id": "13",
+      "name": "Dissociatives - Ketamine",
+      "amountOfListings": "1645"
+    },
+    "15": {
+      "id": "14",
+      "name": "Dissociatives - MXE",
+      "amountOfListings": "12"
+    },
+    "16": {
+      "id": "16",
+      "name": "Dissociatives - Other",
+      "amountOfListings": "37"
+    },
+    "17": {
+      "id": "129",
+      "name": "Drug Precursors",
+      "amountOfListings": "6"
+    },
+    "18": {
+      "id": "86",
+      "name": "Drug testing kits",
+      "amountOfListings": "3"
+    },
+    "19": {
+      "id": "19",
+      "name": "Ecstasy - MDA",
+      "amountOfListings": "23"
+    },
+    "20": {
+      "id": "18",
+      "name": "Ecstasy - MDMA",
+      "amountOfListings": "1352"
+    },
+    "21": {
+      "id": "20",
+      "name": "Ecstasy - Methylone and BK",
+      "amountOfListings": "39"
+    },
+    "22": {
+      "id": "21",
+      "name": "Ecstasy - Other",
+      "amountOfListings": "12"
+    },
+    "23": {
+      "id": "17",
+      "name": "Ecstasy - Pills",
+      "amountOfListings": "1403"
+    },
+    "24": {
+      "id": "131",
+      "name": "Laboratory equipment",
+      "amountOfListings": "7"
+    },
+    "25": {
+      "id": "25",
+      "name": "Opioids - Buprenorphine",
+      "amountOfListings": "91"
+    },
+    "26": {
+      "id": "26",
+      "name": "Opioids - Codeine",
+      "amountOfListings": "36"
+    },
+    "27": {
+      "id": "96",
+      "name": "Opioids - Codeine Syrups/Solutions",
+      "amountOfListings": "62"
+    },
+    "28": {
+      "id": "27",
+      "name": "Opioids - Dihydrocodeine",
+      "amountOfListings": "8"
+    },
+    "29": {
+      "id": "23",
+      "name": "Opioids - Heroin",
+      "amountOfListings": "827"
+    },
+    "30": {
+      "id": "28",
+      "name": "Opioids - Hydrocodone",
+      "amountOfListings": "27"
+    },
+    "31": {
+      "id": "29",
+      "name": "Opioids - Hydromorphone",
+      "amountOfListings": "27"
+    },
+    "32": {
+      "id": "152",
+      "name": "Opioids - Kratom",
+      "amountOfListings": "6"
+    },
+    "33": {
+      "id": "30",
+      "name": "Opioids - Morphine",
+      "amountOfListings": "72"
+    },
+    "34": {
+      "id": "31",
+      "name": "Opioids - Opium",
+      "amountOfListings": "28"
+    },
+    "35": {
+      "id": "33",
+      "name": "Opioids - Other",
+      "amountOfListings": "180"
+    },
+    "36": {
+      "id": "32",
+      "name": "Opioids - Oxycodone",
+      "amountOfListings": "442"
+    },
+    "37": {
+      "id": "22",
+      "name": "Opioids - Pills",
+      "amountOfListings": "166"
+    },
+    "38": {
+      "id": "154",
+      "name": "Opioids - Withdrawal Prevention",
+      "amountOfListings": "38"
+    },
+    "39": {
+      "id": "70",
+      "name": "Other Drugs",
+      "amountOfListings": "109"
+    },
+    "40": {
+      "id": "146",
+      "name": "Paraphernalia - Bags and Packaging",
+      "amountOfListings": "11"
+    },
+    "41": {
+      "id": "150",
+      "name": "Paraphernalia - Other",
+      "amountOfListings": "2"
+    },
+    "42": {
+      "id": "148",
+      "name": "Paraphernalia - Scales",
+      "amountOfListings": "15"
+    },
+    "43": {
+      "id": "140",
+      "name": "Paraphernalia - Smoking Accessories",
+      "amountOfListings": "49"
+    },
+    "44": {
+      "id": "142",
+      "name": "Paraphernalia - Sniff Tools",
+      "amountOfListings": "13"
+    },
+    "45": {
+      "id": "144",
+      "name": "Paraphernalia - Stash and Storage",
+      "amountOfListings": "20"
+    },
+    "46": {
+      "id": "34",
+      "name": "Prescription Drugs",
+      "amountOfListings": "1454"
+    },
+    "47": {
+      "id": "123",
+      "name": "Prescription Drugs - Benzodiazepine and anti-anxiety",
+      "amountOfListings": "316"
+    },
+    "48": {
+      "id": "127",
+      "name": "Prescription Drugs - Methamphetamines",
+      "amountOfListings": "18"
+    },
+    "49": {
+      "id": "125",
+      "name": "Prescription Drugs - Pain killers and Opiod anologues",
+      "amountOfListings": "212"
+    },
+    "50": {
+      "id": "119",
+      "name": "Prescription Drugs - Recreational",
+      "amountOfListings": "46"
+    },
+    "51": {
+      "id": "121",
+      "name": "Prescription Drugs - Stimulants",
+      "amountOfListings": "441"
+    },
+    "52": {
+      "id": "38",
+      "name": "Psychedelics - 2C-B",
+      "amountOfListings": "450"
+    },
+    "53": {
+      "id": "37",
+      "name": "Psychedelics - DMT",
+      "amountOfListings": "342"
+    },
+    "54": {
+      "id": "35",
+      "name": "Psychedelics - LSD",
+      "amountOfListings": "1875"
+    },
+    "55": {
+      "id": "139",
+      "name": "Psychedelics - NB",
+      "amountOfListings": "10"
+    },
+    "56": {
+      "id": "39",
+      "name": "Psychedelics - Other",
+      "amountOfListings": "199"
+    },
+    "57": {
+      "id": "36",
+      "name": "Psychedelics - Shrooms",
+      "amountOfListings": "774"
+    },
+    "58": {
+      "id": "40",
+      "name": "Steroids",
+      "amountOfListings": "1203"
+    },
+    "59": {
+      "id": "46",
+      "name": "Stimulants - Adderall",
+      "amountOfListings": "330"
+    },
+    "60": {
+      "id": "43",
+      "name": "Stimulants - Cocaine",
+      "amountOfListings": "2566"
+    },
+    "61": {
+      "id": "45",
+      "name": "Stimulants - Crack",
+      "amountOfListings": "191"
+    },
+    "62": {
+      "id": "44",
+      "name": "Stimulants - Mephedrone",
+      "amountOfListings": "394"
+    },
+    "63": {
+      "id": "42",
+      "name": "Stimulants - Meth",
+      "amountOfListings": "1331"
+    },
+    "64": {
+      "id": "47",
+      "name": "Stimulants - Other",
+      "amountOfListings": "285"
+    },
+    "65": {
+      "id": "41",
+      "name": "Stimulants - Speed",
+      "amountOfListings": "800"
+    },
+    "66": {
+      "id": "48",
+      "name": "Tobacco",
+      "amountOfListings": "18"
+    },
+    "67": {
+      "id": "49",
+      "name": "Weight Loss",
+      "amountOfListings": "40"
+    }
+  }
+}]
